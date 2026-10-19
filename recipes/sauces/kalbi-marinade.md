@@ -3,43 +3,26 @@ title: Kalbi marinade
 subtitle: Roy Choi’s sweet soy, orange and kiwi marinade for Korean short ribs
 tags: [beef, korean, marinade, sauce, grilling]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/kalbi-marinade.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+makes: about 2 litres (8 cups)
+prep: 15 min
+source: https://www.masterclass.com/articles/korean-short-ribs-recipe-by-roy-choi
 ---
-
-:::{recipe}
-:makes: about 2 litres (8 cups)
-:prep: 15 min
-:source: https://www.masterclass.com/articles/korean-short-ribs-recipe-by-roy-choi
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/kalbi-marinade.jpg
-:alt: Kalbi marinade in a jar beside grilled short ribs
-:::
--->
 
 Kiwi does the tenderising here: its enzymes break down the meat fast, so
 don't leave short ribs in it for more than a day or they turn mushy.
 
 ## Ingredients
 
-- 1 large onion, peeled and roughly chopped
-- About 140 g (1 cup) peeled garlic cloves
-- 1 bunch scallions (about 8), roughly chopped
-- 5 tbsp toasted sesame seeds
-- 200 g (1 cup) sugar
-- 2 large kiwifruits
-- 500 ml (2 cups) soy sauce
-- 250 ml (1 cup) mirin, apple juice or water
-- 500 ml (2 cups) fresh orange juice
-- 250 ml (1 cup) toasted sesame oil
+- 1 large [onion](/ingredients/onion.md), peeled and roughly chopped
+- About 140 g (1 cup) peeled [garlic cloves](/ingredients/garlic.md)
+- 1 bunch [scallions](/ingredients/scallion.md) (about 8), roughly chopped
+- 5 tbsp [toasted sesame seeds](/ingredients/sesame-seeds.md)
+- 200 g (1 cup) [sugar](/ingredients/sugar.md)
+- 2 large [kiwifruits](/ingredients/kiwifruit.md)
+- 500 ml (2 cups) [soy sauce](/ingredients/soy-sauce.md)
+- 250 ml (1 cup) [mirin](/ingredients/mirin.md), [apple juice](/ingredients/apple-juice.md) or [water](/ingredients/water.md)
+- 500 ml (2 cups) [fresh orange juice](/ingredients/orange-juice.md)
+- 250 ml (1 cup) [toasted sesame oil](/ingredients/sesame-oil.md)
 
 ## Method
 

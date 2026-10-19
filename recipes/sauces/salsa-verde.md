@@ -3,45 +3,28 @@ title: Salsa verde
 subtitle: Roy Choi’s charred tomatillo, chili and scallion salsa with lime and rice vinegar
 tags: [tomatillo, mexican, korean, salsa, sauce, charred]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/salsa-verde.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+makes: about 500 ml (2 cups)
+prep: 10 min
+cook: 15 min
+source: https://www.masterclass.com/articles/salsa-verde-recipe
 ---
-
-:::{recipe}
-:makes: about 500 ml (2 cups)
-:prep: 10 min
-:cook: 15 min
-:source: https://www.masterclass.com/articles/salsa-verde-recipe
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/salsa-verde.jpg
-:alt: A bowl of charred salsa verde
-:::
--->
 
 The flavour comes from charring the vegetables properly, so take each one
 off the heat as soon as it is blistered and soft, before it burns.
 
 ## Ingredients
 
-- 1 tbsp cooking oil, plus more as needed
-- 2 large tomatillos, husked and rinsed
-- 3 garlic cloves, peeled
-- 6 scallions
-- 2 jalapeños
-- 2 serrano chillies
-- 1 bunch cilantro with stems, roughly chopped (about 1½ cups)
-- 2 limes
-- 125 ml (½ cup) rice vinegar
-- 3 large pinches kosher salt
-- 2 large pinches freshly ground black pepper
+- 1 tbsp [cooking oil](/ingredients/neutral-oil.md), plus more as needed
+- 2 large [tomatillos](/ingredients/tomatillo.md), husked and rinsed
+- 3 [garlic cloves](/ingredients/garlic.md), peeled
+- 6 [scallions](/ingredients/scallion.md)
+- 2 [jalapeños](/ingredients/jalapeno.md)
+- 2 [serrano chillies](/ingredients/serrano-chilli.md)
+- 1 bunch [cilantro](/ingredients/coriander.md) with stems, roughly chopped (about 1½ cups)
+- 2 [limes](/ingredients/lime.md)
+- 125 ml (½ cup) [rice vinegar](/ingredients/rice-vinegar.md)
+- 3 large pinches [kosher salt](/ingredients/salt.md)
+- 2 large pinches freshly ground [black pepper](/ingredients/black-pepper.md)
 
 ## Method
 

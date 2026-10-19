@@ -1,0 +1,4 @@
+---
+name: Kiwifruit
+aliases: [kiwi]
+---

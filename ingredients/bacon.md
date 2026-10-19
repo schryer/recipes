@@ -1,0 +1,4 @@
+---
+name: Bacon
+aliases: [lardons]
+---

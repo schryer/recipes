@@ -3,30 +3,13 @@ title: Roasted pumpkin pie filling
 subtitle: A brown sugar custard for one deep pie, made with your own roasted pumpkin
 tags: [pumpkin, pie, custard, dessert, baking]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/pumpkin-pie-filling.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+serves: 8–10
+makes: one 23 cm (9 in) deep-dish pie
+prep: 15 min
+cook: 1 h
+rest: 3 h
+source: https://www.cucinabyelena.com/fresh-roasted-pumpkin-pie/
 ---
-
-:::{recipe}
-:serves: 8–10
-:makes: one 23 cm (9 in) deep-dish pie
-:prep: 15 min
-:cook: 1 h
-:rest: 3 h
-:source: https://www.cucinabyelena.com/fresh-roasted-pumpkin-pie/
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/pumpkin-pie-filling.jpg
-:alt: A slice of pumpkin pie
-:::
--->
 
 Roasting the pumpkin yourself caramelises its sugars for a deeper flavour
 than canned purée. Fresh purée is wetter than canned, so drain it if it
@@ -34,15 +17,15 @@ looks loose, and take the pie out while the centre still jiggles.
 
 ## Ingredients
 
-- 3 large eggs, at room temperature
-- 165 g (¾ cup) packed brown sugar
-- 450 g (2 cups) roasted pumpkin purée, drained if watery
-- 1 tbsp pumpkin pie spice, or 1 tsp cinnamon, ½ tsp ginger, ¼ tsp nutmeg and ¼ tsp cloves
-- 1 tsp vanilla extract
-- ¼ tsp kosher salt
-- 1 tbsp plain flour (optional; it helps set the wetter fresh purée)
-- 250 ml (1 cup) heavy cream, or half-and-half for a lighter custard
-- 1 unbaked or blind-baked 23 cm (9 in) deep-dish pie shell
+- 3 large [eggs](/ingredients/egg.md), at room temperature
+- 165 g (¾ cup) [packed brown sugar](/ingredients/brown-sugar.md)
+- 450 g (2 cups) [roasted pumpkin purée](/ingredients/pumpkin-puree.md), drained if watery
+- 1 tbsp [pumpkin pie spice](/ingredients/pumpkin-pie-spice.md), or 1 tsp [cinnamon](/ingredients/cinnamon.md), ½ tsp [ginger](/ingredients/ground-ginger.md), ¼ tsp [nutmeg](/ingredients/nutmeg.md) and ¼ tsp [cloves](/ingredients/cloves.md)
+- 1 tsp [vanilla extract](/ingredients/vanilla-extract.md)
+- ¼ tsp [kosher salt](/ingredients/salt.md)
+- 1 tbsp [plain flour](/ingredients/plain-flour.md) (optional; it helps set the wetter fresh purée)
+- 250 ml (1 cup) [heavy cream](/ingredients/heavy-cream.md), or [half-and-half](/ingredients/half-and-half.md) for a lighter custard
+- 1 unbaked or blind-baked 23 cm (9 in) deep-dish [pie shell](/ingredients/pie-shell.md)
 
 ## Method
 

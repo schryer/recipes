@@ -3,33 +3,15 @@ title: Gỏi cuốn
 subtitle: Fresh rice paper rolls with prawns, noodles and herbs, and a hoisin peanut dip
 tags: [prawns, vietnamese, rice paper, lunch]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/goi-cuon.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+makes: 8 rolls, for 2–4
+prep: 25 min
+cook: 5 min
 ---
 
-:::{recipe}
-:makes: 8 rolls, for 2–4
-:prep: 25 min
-:cook: 5 min
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/goi-cuon.jpg
-:alt: Fresh spring rolls with hoisin peanut dip
-:::
--->
-
-```{note}
-**Draft quantities for David to check.** The vault note names the
-ingredients and steps but no amounts, so the quantities and timings are
-worked out and haven’t been tested.
-```
+> [!NOTE]
+> **Draft quantities for David to check.** The vault note names the
+> ingredients and steps but no amounts, so the quantities and timings are
+> worked out and haven’t been tested.
 
 Fresh spring rolls that can be rolled ahead or at the table. Soften the
 rice paper only briefly: it keeps softening on the board, and soaked too
@@ -39,18 +21,18 @@ long it tears.
 
 ### For the rolls
 
-- 50 g rice vermicelli
-- 8 sheets rice paper, about 22 cm (8½ in) across
-- 16 cooked prawns, halved lengthways, or 200 g cooked chicken in strips
-- ½ cucumber, cut into thin sticks
-- 1 small bunch mint, leaves picked
-- 1 small bunch coriander, leaves picked
+- 50 g [rice vermicelli](/ingredients/rice-vermicelli.md)
+- 8 sheets [rice paper](/ingredients/rice-paper.md), about 22 cm (8½ in) across
+- 16 cooked [prawns](/ingredients/prawn.md), halved lengthways, or 200 g cooked [chicken](/ingredients/chicken.md) in strips
+- ½ [cucumber](/ingredients/cucumber.md), cut into thin sticks
+- 1 small bunch [mint](/ingredients/mint.md), leaves picked
+- 1 small bunch [coriander](/ingredients/coriander.md), leaves picked
 
 ### For the dip
 
-- 4 tbsp hoisin sauce
-- 1 tbsp peanut butter
-- 2–3 tbsp warm water
+- 4 tbsp [hoisin sauce](/ingredients/hoisin-sauce.md)
+- 1 tbsp [peanut butter](/ingredients/peanut-butter.md)
+- 2–3 tbsp [warm water](/ingredients/water.md)
 
 ## Method
 

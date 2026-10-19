@@ -3,33 +3,15 @@ title: Bún bò xào
 subtitle: Garlic beef on rice noodles and herbs, dressed with nước chấm
 tags: [beef, vietnamese, noodles, lunch]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/bun-bo-xao.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+serves: "2"
+prep: 15 min
+cook: 10 min
 ---
 
-:::{recipe}
-:serves: 2
-:prep: 15 min
-:cook: 10 min
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/bun-bo-xao.jpg
-:alt: A bowl of bún bò xào with herbs and peanuts
-:::
--->
-
-```{note}
-**Draft quantities for David to check.** The vault note names the
-ingredients and steps but no amounts, so the quantities and timings are
-worked out and haven’t been tested.
-```
+> [!NOTE]
+> **Draft quantities for David to check.** The vault note names the
+> ingredients and steps but no amounts, so the quantities and timings are
+> worked out and haven’t been tested.
 
 A southern Vietnamese noodle bowl with no broth to simmer, so it comes
 together in the time the noodles take. Slice the beef thin and cook it
@@ -39,25 +21,25 @@ fast in a very hot pan so it browns without stewing.
 
 ### For the bowl
 
-- 150 g rice vermicelli
-- 2 handfuls shredded lettuce
-- 100 g bean sprouts
-- 1 small bunch mint, leaves picked
-- 1 small bunch coriander, leaves picked
-- 2 tbsp crushed roasted peanuts
-- 2 tbsp fried shallots
+- 150 g [rice vermicelli](/ingredients/rice-vermicelli.md)
+- 2 handfuls shredded [lettuce](/ingredients/lettuce.md)
+- 100 g [bean sprouts](/ingredients/bean-sprouts.md)
+- 1 small bunch [mint](/ingredients/mint.md), leaves picked
+- 1 small bunch [coriander](/ingredients/coriander.md), leaves picked
+- 2 tbsp [crushed roasted peanuts](/ingredients/roasted-peanuts.md)
+- 2 tbsp [fried shallots](/ingredients/fried-shallots.md)
 
 ### For the beef
 
-- 300 g beef sirloin or flank, thinly sliced across the grain
-- 2 cloves garlic, minced
-- 1 tbsp fish sauce
-- 1 tsp sugar
-- 1 tbsp neutral oil
+- 300 g [beef sirloin](/ingredients/beef-sirloin.md) or [flank](/ingredients/beef-flank.md), thinly sliced across the grain
+- 2 cloves [garlic](/ingredients/garlic.md), minced
+- 1 tbsp [fish sauce](/ingredients/fish-sauce.md)
+- 1 tsp [sugar](/ingredients/sugar.md)
+- 1 tbsp [neutral oil](/ingredients/neutral-oil.md)
 
 ### For the sauce
 
-- 150 ml [nước chấm](../sauces/nuoc-cham.md), thinned with water (see Notes)
+- 150 ml [nước chấm](/ingredients/nuoc-cham.md) ([recipe](../sauces/nuoc-cham.md)), thinned with water (see Notes)
 
 ## Method
 

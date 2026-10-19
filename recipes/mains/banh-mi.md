@@ -3,34 +3,16 @@ title: Bánh mì
 subtitle: Toasted baguette with pâté, pork and quick-pickled carrot and daikon
 tags: [pork, vietnamese, sandwich, pickles, lunch]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/banh-mi.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+serves: "2"
+prep: 20 min
+cook: 10 min
+rest: 30 min
 ---
 
-:::{recipe}
-:serves: 2
-:prep: 20 min
-:cook: 10 min
-:rest: 30 min
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/banh-mi.jpg
-:alt: A bánh mì cut in half
-:::
--->
-
-```{note}
-**Draft quantities for David to check.** The vault note names the
-ingredients and steps but no amounts, so the quantities and timings are
-worked out and haven’t been tested.
-```
+> [!NOTE]
+> **Draft quantities for David to check.** The vault note names the
+> ingredients and steps but no amounts, so the quantities and timings are
+> worked out and haven’t been tested.
 
 The quick pickle is what makes it: crisp, sweet and sour against the rich
 pâté and pork. Make it first so it has half an hour to work.
@@ -39,27 +21,27 @@ pâté and pork. Make it first so it has half an hour to work.
 
 ### For the pickle
 
-- 1 carrot, cut into matchsticks
-- 150 g daikon, cut into matchsticks
-- 125 ml (½ cup) rice vinegar
-- 125 ml (½ cup) warm water
-- 2 tbsp sugar
-- ½ tsp salt
+- 1 [carrot](/ingredients/carrot.md), cut into matchsticks
+- 150 g [daikon](/ingredients/daikon.md), cut into matchsticks
+- 125 ml (½ cup) [rice vinegar](/ingredients/rice-vinegar.md)
+- 125 ml (½ cup) [warm water](/ingredients/water.md)
+- 2 tbsp [sugar](/ingredients/sugar.md)
+- ½ tsp [salt](/ingredients/salt.md)
 
 ### For the pork
 
-- 250 g pork shoulder or loin, thinly sliced, or 200 g firm tofu, sliced
-- 1 tbsp fish sauce (soy sauce for tofu)
-- 1 tsp sugar
-- 1 tbsp neutral oil
+- 250 g [pork shoulder](/ingredients/pork-shoulder.md) or [loin](/ingredients/pork-loin.md), thinly sliced, or 200 g [firm tofu](/ingredients/tofu.md), sliced
+- 1 tbsp [fish sauce](/ingredients/fish-sauce.md) ([soy sauce](/ingredients/soy-sauce.md) for tofu)
+- 1 tsp [sugar](/ingredients/sugar.md)
+- 1 tbsp [neutral oil](/ingredients/neutral-oil.md)
 
 ### For the sandwiches
 
-- 1 crisp baguette, cut into two lengths
-- 2 tbsp mayonnaise
-- 60 g pâté
-- ½ cucumber, sliced lengthways
-- A handful of coriander sprigs, with stalks
+- 1 crisp [baguette](/ingredients/baguette.md), cut into two lengths
+- 2 tbsp [mayonnaise](/ingredients/mayonnaise.md)
+- 60 g [pâté](/ingredients/pate.md)
+- ½ [cucumber](/ingredients/cucumber.md), sliced lengthways
+- A handful of [coriander](/ingredients/coriander.md) sprigs, with stalks
 
 ## Method
 

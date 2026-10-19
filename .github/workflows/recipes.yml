@@ -1,0 +1,31 @@
+# Checks every pull request, and on main publishes the site: the built data
+# goes to the `site` branch (read through jsDelivr) and index.html to
+# schryer.eu/recipes on the web server that schryer/schryer-eu-infra manages
+# (modules/web, docs/web/RUNBOOK.md there).
+name: Recipes
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recipes-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: schryer/recipe-host@v0.1.0
+        with:
+          command: ${{ github.event_name == 'pull_request' && 'check' || 'publish' }}
+          # The key is forced through rrsync into /srv/www/recipes on the
+          # server, so the destination is relative to that folder.
+          deploy-key: ${{ secrets.RECIPES_DEPLOY_KEY }}
+          deploy-target: deploy@schryer.eu:./

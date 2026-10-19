@@ -1,0 +1,9 @@
+# Settings for recipe-host (https://github.com/schryer/recipe-host), which
+# checks these recipes, builds the site data and cards, and serves the site.
+title: Recipes
+description: Family recipes, each with a printable A5 card.
+repo: schryer/recipes
+url: https://schryer.eu/recipes/
+# Category folders in the order the front page lists them; others follow
+# alphabetically.
+categories: [mains, sauces, sides, desserts, baking, drinks]

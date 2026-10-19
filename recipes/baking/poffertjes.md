@@ -3,29 +3,12 @@ title: Poffertjes
 subtitle: Dutch mini pancakes from a yeasted buckwheat batter, with butter and icing sugar
 tags: [buckwheat, dutch, pancakes, yeast, sweet]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/poffertjes.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+makes: about 40–50
+prep: 15 min
+cook: 20 min
+rest: 1 h
+source: https://cakieshq.com/recipe/poffertjes-dutch-mini-pancakes/
 ---
-
-:::{recipe}
-:makes: about 40–50
-:prep: 15 min
-:rest: 1 h
-:cook: 20 min
-:source: https://cakieshq.com/recipe/poffertjes-dutch-mini-pancakes/
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/poffertjes.jpg
-:alt: A plate of poffertjes with butter and icing sugar
-:::
--->
 
 Yeast and buckwheat give poffertjes their light, spongy and slightly
 chewy texture. Let the batter rise properly, and flip them as soon as the
@@ -33,15 +16,15 @@ bottoms are golden.
 
 ## Ingredients
 
-- 400 ml lukewarm milk, about 38 °C
-- 1 tbsp sugar
-- 7 g (2½ tsp) active dry or instant yeast
-- 150 g plain flour
-- 100 g buckwheat flour
-- A pinch of salt
-- 2 large eggs
-- Butter, melted, for the pan
-- To serve: butter and icing sugar
+- 400 ml lukewarm [milk](/ingredients/milk.md), about 38 °C
+- 1 tbsp [sugar](/ingredients/sugar.md)
+- 7 g (2½ tsp) [active dry or instant yeast](/ingredients/yeast.md)
+- 150 g [plain flour](/ingredients/plain-flour.md)
+- 100 g [buckwheat flour](/ingredients/buckwheat-flour.md)
+- A pinch of [salt](/ingredients/salt.md)
+- 2 large [eggs](/ingredients/egg.md)
+- [Butter](/ingredients/butter.md), melted, for the pan
+- To serve: [butter](/ingredients/butter.md) and [icing sugar](/ingredients/icing-sugar.md)
 
 ## Method
 

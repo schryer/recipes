@@ -3,22 +3,11 @@ title: Sous vide boeuf bourguignon
 subtitle: Beef chuck in reduced red wine, 24 hours at 68 °C
 tags: [beef, sous vide, french, stew]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/boeuf-bourguignon.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+serves: "4"
+prep: 45 min
+cook: 24 h
+source: https://recipes.anovaculinary.com/recipe/beef-bourguignon
 ---
-
-:::{recipe}
-:serves: 4
-:prep: 45 min
-:cook: 24 h
-:source: https://recipes.anovaculinary.com/recipe/beef-bourguignon
-:::
 
 Sous vide keeps tough chuck juicy while the wine, bacon and aromatics soak
 in. The wine has to be reduced on the stove first: in a sealed bag the
@@ -27,19 +16,19 @@ taste.
 
 ## Ingredients
 
-- 1.4 kg (3 lb) beef chuck roast, cut into 5 cm (2 in) chunks
-- 170 g (6 oz) thick-cut bacon, cut into lardons
-- 1 bottle (750 ml) dry red wine, such as Pinot Noir or Burgundy
-- 500 ml (2 cups) beef stock
-- 1 large yellow onion, diced
-- 2 large carrots, cut into thick coins
-- 280 g (10 oz) cremini mushrooms, quartered
-- 12–15 pearl onions, peeled
-- 2 tbsp tomato paste
-- 4 cloves garlic, minced
-- 3 sprigs thyme and 2 bay leaves
-- 2 tbsp butter mashed with 2 tbsp flour (beurre manié), plus 2 tbsp butter for the mushrooms
-- Kosher salt and black pepper
+- 1.4 kg (3 lb) [beef chuck roast](/ingredients/beef-chuck.md), cut into 5 cm (2 in) chunks
+- 170 g (6 oz) thick-cut [bacon](/ingredients/bacon.md), cut into lardons
+- 1 bottle (750 ml) [dry red wine](/ingredients/red-wine.md), such as Pinot Noir or Burgundy
+- 500 ml (2 cups) [beef stock](/ingredients/beef-stock.md)
+- 1 large [yellow onion](/ingredients/onion.md), diced
+- 2 large [carrots](/ingredients/carrot.md), cut into thick coins
+- 280 g (10 oz) [cremini mushrooms](/ingredients/cremini-mushroom.md), quartered
+- 12–15 [pearl onions](/ingredients/pearl-onion.md), peeled
+- 2 tbsp [tomato paste](/ingredients/tomato-paste.md)
+- 4 cloves [garlic](/ingredients/garlic.md), minced
+- 3 sprigs [thyme](/ingredients/thyme.md) and 2 [bay leaves](/ingredients/bay-leaf.md)
+- 2 tbsp [butter](/ingredients/butter.md) mashed with 2 tbsp [flour](/ingredients/plain-flour.md) (beurre manié), plus 2 tbsp butter for the mushrooms
+- [Kosher salt](/ingredients/salt.md) and [black pepper](/ingredients/black-pepper.md)
 
 ## Method
 

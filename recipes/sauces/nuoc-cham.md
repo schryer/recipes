@@ -3,31 +3,13 @@ title: Nước chấm
 subtitle: Vietnamese garlic, lime and fish sauce dip, kept strong
 tags: [fish sauce, vietnamese, dipping sauce, sauce, lime]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/nuoc-cham.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+makes: about 250 ml (1 cup)
+prep: 10 min
 ---
 
-:::{recipe}
-:makes: about 250 ml (1 cup)
-:prep: 10 min
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/nuoc-cham.jpg
-:alt: A bowl of nước chấm with garlic and chili
-:::
--->
-
-```{note}
-**Draft method for David to check.** The vault note lists only the
-ingredients, so the method is worked out from them and hasn’t been tested.
-```
+> [!NOTE]
+> **Draft method for David to check.** The vault note lists only the
+> ingredients, so the method is worked out from them and hasn’t been tested.
 
 This version has no water, so it is stronger than most: use it as is for
 spooning over rice and grilled meat, or thin it for a dipping sauce (see
@@ -35,11 +17,11 @@ Notes). Dissolve the sugar fully before tasting.
 
 ## Ingredients
 
-- 4 tbsp granulated sugar
-- 4 tbsp lime juice (about 2 limes)
-- 6 tbsp fish sauce
-- 6 cloves garlic, minced
-- 2 tsp chili garlic sauce
+- 4 tbsp [granulated sugar](/ingredients/sugar.md)
+- 4 tbsp [lime juice](/ingredients/lime.md) (about 2 limes)
+- 6 tbsp [fish sauce](/ingredients/fish-sauce.md)
+- 6 cloves [garlic](/ingredients/garlic.md), minced
+- 2 tsp [chili garlic sauce](/ingredients/chili-garlic-sauce.md)
 
 ## Method
 

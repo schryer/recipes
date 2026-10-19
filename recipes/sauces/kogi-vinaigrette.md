@@ -3,44 +3,27 @@ title: Kogi vinaigrette
 subtitle: Roy Choi’s ginger, chili and soy dressing, blended in one go
 tags: [korean, dressing, vinaigrette, sauce, ginger]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/kogi-vinaigrette.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+makes: about 1.5 litres (6 cups)
+prep: 10 min
+source: https://www.masterclass.com/articles/korean-vinaigrette
 ---
-
-:::{recipe}
-:makes: about 1.5 litres (6 cups)
-:prep: 10 min
-:source: https://www.masterclass.com/articles/korean-vinaigrette
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/kogi-vinaigrette.jpg
-:alt: A jar of Kogi vinaigrette
-:::
--->
 
 One of the Kogi truck’s mother sauces: everything goes in the blender at
 once. Use unseasoned rice vinegar, or the dressing ends up too sweet.
 
 ## Ingredients
 
-- 5 cm (2 in) knob of ginger
-- 4 garlic cloves, peeled
-- 3 scallions, roughly chopped
-- 60 ml (¼ cup) gochugaru (Korean chili flakes)
-- 50 g (¼ cup) sugar
-- 1 tbsp kosher salt
-- 2 tsp black pepper
-- 250 ml (1 cup) soy sauce
-- 500 ml (2 cups) unseasoned rice vinegar
-- 125 ml (½ cup) toasted sesame oil
-- 250 ml (1 cup) neutral oil, such as canola or grapeseed
+- 5 cm (2 in) knob of [ginger](/ingredients/ginger.md)
+- 4 [garlic cloves](/ingredients/garlic.md), peeled
+- 3 [scallions](/ingredients/scallion.md), roughly chopped
+- 60 ml (¼ cup) [gochugaru](/ingredients/gochugaru.md) (Korean chili flakes)
+- 50 g (¼ cup) [sugar](/ingredients/sugar.md)
+- 1 tbsp [kosher salt](/ingredients/salt.md)
+- 2 tsp [black pepper](/ingredients/black-pepper.md)
+- 250 ml (1 cup) [soy sauce](/ingredients/soy-sauce.md)
+- 500 ml (2 cups) [unseasoned rice vinegar](/ingredients/rice-vinegar.md)
+- 125 ml (½ cup) [toasted sesame oil](/ingredients/sesame-oil.md)
+- 250 ml (1 cup) [neutral oil](/ingredients/neutral-oil.md), such as canola or grapeseed
 
 ## Method
 

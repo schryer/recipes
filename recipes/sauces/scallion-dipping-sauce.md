@@ -3,32 +3,14 @@ title: Scallion dipping sauce
 subtitle: Soy, rice vinegar and gochugaru with plenty of sliced scallions
 tags: [scallion, korean, dipping sauce, sauce]
 date: 2026-10-19
-exports:
-  - id: card
-    format: typst
-    template: ../../templates/recipe-card
-    output: ../_build/cards/scallion-dipping-sauce.pdf
-downloads:
-  - id: card
-    title: Recipe card (A5 PDF)
+makes: about 1 litre (4 cups)
+prep: 10 min
+rest: 10 min
 ---
 
-:::{recipe}
-:makes: about 1 litre (4 cups)
-:prep: 10 min
-:rest: 10 min
-:::
-
-<!-- Once there is a photo:
-:::{figure} ../photos/scallion-dipping-sauce.jpg
-:alt: A bowl of scallion dipping sauce
-:::
--->
-
-```{note}
-**Draft method for David to check.** The vault note lists only the
-ingredients, so the method is worked out from them and hasn’t been tested.
-```
+> [!NOTE]
+> **Draft method for David to check.** The vault note lists only the
+> ingredients, so the method is worked out from them and hasn’t been tested.
 
 A dip for pancakes and dumplings that also works as a glaze or dressing.
 Dissolve the sugar before the scallions go in, and slice the scallions
@@ -36,13 +18,13 @@ thin so they soften in the sauce.
 
 ## Ingredients
 
-- 500 ml (2 cups) soy sauce
-- 175 ml (¾ cup) rice vinegar
-- 2 tbsp sugar
-- 125 ml (½ cup) toasted sesame oil
-- 3 tbsp gochugaru (Korean chili flakes)
-- 2 tbsp toasted sesame seeds, crushed
-- 1 bunch scallions (about 8), trimmed and thinly sliced
+- 500 ml (2 cups) [soy sauce](/ingredients/soy-sauce.md)
+- 175 ml (¾ cup) [rice vinegar](/ingredients/rice-vinegar.md)
+- 2 tbsp [sugar](/ingredients/sugar.md)
+- 125 ml (½ cup) [toasted sesame oil](/ingredients/sesame-oil.md)
+- 3 tbsp [gochugaru](/ingredients/gochugaru.md) (Korean chili flakes)
+- 2 tbsp [toasted sesame seeds](/ingredients/sesame-seeds.md), crushed
+- 1 bunch [scallions](/ingredients/scallion.md) (about 8), trimmed and thinly sliced
 
 ## Method
 
