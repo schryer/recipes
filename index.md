@@ -15,6 +15,21 @@ printable A5 recipe card.
 Beef chuck in reduced red wine, 24 hours at 68 °C.
 :::
 
+:::{card} Bánh mì
+:link: mains/banh-mi.md
+Toasted baguette with pâté, pork and quick-pickled carrot and daikon.
+:::
+
+:::{card} Bún bò xào
+:link: mains/bun-bo-xao.md
+Garlic beef on rice noodles and herbs, dressed with nước chấm.
+:::
+
+:::{card} Gỏi cuốn
+:link: mains/goi-cuon.md
+Fresh rice paper rolls with prawns, noodles and herbs, and a hoisin peanut dip.
+:::
+
 ::::
 
 ## Sauces
@@ -55,6 +70,17 @@ Soy, rice vinegar and gochugaru with plenty of sliced scallions.
 :::{card} Roasted pumpkin pie filling
 :link: desserts/pumpkin-pie-filling.md
 A brown sugar custard for one deep pie, made with your own roasted pumpkin.
+:::
+
+::::
+
+## Baking
+
+::::{grid} 1 2 2 3
+
+:::{card} Poffertjes
+:link: baking/poffertjes.md
+Dutch mini pancakes from a yeasted buckwheat batter, with butter and icing sugar.
 :::
 
 ::::
