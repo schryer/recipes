@@ -206,5 +206,12 @@ card into its page's Download menu, and when a card hasn't been built
 yet it reports "Could not find static resource" and leaves it out. Everything under `_build/`
 is generated and gitignored.
 
-To host the site under a path rather than at the root of a domain, set
-`BASE_URL` for the HTML build, for example `BASE_URL=/recipes`.
+## Publishing
+
+The site lives at https://schryer.eu/recipes/. The *Recipes* workflow
+(`.github/workflows/recipes.yml`) builds it on every pull request that
+touches `recipes/` or the recipe templates, with `--strict`, so any build
+warning (a `{recipe}` without `:serves:` or `:makes:`, a missing photo)
+fails the check. Merging to `main` builds it with `BASE_URL=/recipes` and
+publishes it to the web server that schryer/schryer-eu-infra manages.
+Nothing else is needed to publish a recipe.
