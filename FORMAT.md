@@ -192,13 +192,14 @@ out `:header:` until the recipe has a photo.
 
 ## Building and previewing
 
-From `recipes/`, with Node.js and `typst` installed (`pubdoc setup`
-checks both):
+Run these from `recipes/`, with Node.js and `typst` installed (`pubdoc setup`
+checks both). Use `mystmd`, not `curvenote`, for the site: curvenote's
+site build replaces the book theme with its own.
 
 ```sh
-npx curvenote start                  # live preview of the site while editing
-npx curvenote build --typst          # just the cards, into _build/cards/
-npx curvenote build --typst --html   # cards, then the static site in _build/html/
+npx mystmd start                  # live preview of the site while editing
+npx mystmd build --typst          # just the cards, into _build/cards/
+npx mystmd build --typst --html   # cards, then the static site in _build/html/
 ```
 
 Build the cards before or together with the site: the site copies each
