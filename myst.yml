@@ -1,0 +1,21 @@
+version: 1
+project:
+  title: Recipes
+  description: Family recipes, each with a printable recipe card.
+  authors:
+    - name: David Schryer
+  plugins:
+    - ../templates/recipe.mjs
+  # FORMAT.md documents the format and _template.md is the starting point
+  # for a new recipe; neither is a page of the site.
+  exclude:
+    - FORMAT.md
+    - _template.md
+  # No `toc:` on purpose: MyST builds the navigation from the folders
+  # (index.md, then one section per category folder), so adding a recipe
+  # never means editing this file.
+site:
+  template: book-theme
+  title: Recipes
+  options:
+    logo_text: Recipes
