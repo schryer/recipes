@@ -1,0 +1,4 @@
+---
+name: Pâté
+aliases: [pate]
+---

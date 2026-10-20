@@ -1,0 +1,4 @@
+---
+name: Daikon
+aliases: [mooli]
+---

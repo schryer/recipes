@@ -1,0 +1,4 @@
+---
+name: Jalapeño
+aliases: [jalapeno]
+---

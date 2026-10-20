@@ -1,0 +1,4 @@
+---
+name: Mayonnaise
+aliases: [mayo]
+---
