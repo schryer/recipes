@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: schryer/recipe-host@v0.1.0
+      - uses: schryer/recipe-host@v0.1.1
         with:
           command: ${{ github.event_name == 'pull_request' && 'check' || 'publish' }}
           # The key is forced through rrsync into /srv/www/recipes on the

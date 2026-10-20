@@ -1,0 +1,8 @@
+# Opens a pull request when a newer release of an action is out, including
+# schryer/recipe-host: merging it moves the site to that release.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
