@@ -8,11 +8,6 @@ prep: 15 min
 cook: 10 min
 ---
 
-> [!NOTE]
-> **Draft quantities for David to check.** The vault note names the
-> ingredients and steps but no amounts, so the quantities and timings are
-> worked out and haven’t been tested.
-
 A southern Vietnamese noodle bowl with no broth to simmer, so it comes
 together in the time the noodles take. Slice the beef thin and cook it
 fast in a very hot pan so it browns without stewing.
