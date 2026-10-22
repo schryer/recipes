@@ -1,7 +1,8 @@
 # Checks every pull request, and on main publishes the site: the built data
-# goes to the `site` branch (read through jsDelivr) and index.html to
-# schryer.eu/recipes on the web server that schryer/schryer-eu-infra manages
-# (modules/web, docs/web/RUNBOOK.md there).
+# goes to the `site` branch (read through jsDelivr), and index.html to
+# Cloudflare Pages (recipes.schryer.eu) and to the web server's standby
+# copy at schryer.eu/recipes, both managed by schryer/schryer-eu-infra
+# (cloudflare.tf, modules/web, docs/web/RUNBOOK.md there).
 name: Recipes
 
 on:
@@ -22,10 +23,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: schryer/recipe-host@v0.1.1
+      - uses: schryer/recipe-host@v0.1.4
         with:
           command: ${{ github.event_name == 'pull_request' && 'check' || 'publish' }}
           # The key is forced through rrsync into /srv/www/recipes on the
           # server, so the destination is relative to that folder.
           deploy-key: ${{ secrets.RECIPES_DEPLOY_KEY }}
           deploy-target: deploy@schryer.eu:./
+          # A token that may deploy Cloudflare Pages and nothing else.
+          cloudflare-api-token: ${{ secrets.CLOUDFLARE_GITHUB_API_TOKEN }}
+          cloudflare-account-id: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          cloudflare-project: schryer-recipes
