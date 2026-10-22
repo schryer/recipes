@@ -1,0 +1,2088 @@
+{
+ "format": 1,
+ "site": {
+  "title": "Recipes",
+  "description": "Family recipes, each with a printable A5 card.",
+  "repo": "schryer/recipes",
+  "branch": "main",
+  "url": "https://recipes.schryer.eu/",
+  "categories": [
+   "mains",
+   "sauces",
+   "sides",
+   "desserts",
+   "baking",
+   "drinks"
+  ],
+  "login": null,
+  "favourites": null
+ },
+ "recipes": [
+  {
+   "slug": "banh-mi",
+   "category": "mains",
+   "path": "recipes/mains/banh-mi.md",
+   "title": "Bánh mì",
+   "subtitle": "Toasted baguette with pâté, pork and quick-pickled carrot and daikon",
+   "tags": [
+    "pork",
+    "vietnamese",
+    "sandwich",
+    "pickles",
+    "lunch"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "serves": "2",
+    "prep": "20 min",
+    "cook": "10 min",
+    "rest": "30 min"
+   },
+   "photo": null,
+   "ingredients": [
+    "carrot",
+    "daikon",
+    "rice-vinegar",
+    "water",
+    "sugar",
+    "salt",
+    "pork-shoulder",
+    "pork-loin",
+    "tofu",
+    "fish-sauce",
+    "soy-sauce",
+    "neutral-oil",
+    "baguette",
+    "mayonnaise",
+    "pate",
+    "cucumber",
+    "coriander"
+   ]
+  },
+  {
+   "slug": "bun-bo-xao",
+   "category": "mains",
+   "path": "recipes/mains/bun-bo-xao.md",
+   "title": "Bún bò xào",
+   "subtitle": "Garlic beef on rice noodles and herbs, dressed with nước chấm",
+   "tags": [
+    "beef",
+    "vietnamese",
+    "noodles",
+    "lunch"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "serves": "2",
+    "prep": "15 min",
+    "cook": "10 min"
+   },
+   "photo": null,
+   "ingredients": [
+    "rice-vermicelli",
+    "lettuce",
+    "bean-sprouts",
+    "mint",
+    "coriander",
+    "roasted-peanuts",
+    "fried-shallots",
+    "beef-sirloin",
+    "beef-flank",
+    "garlic",
+    "fish-sauce",
+    "sugar",
+    "neutral-oil",
+    "nuoc-cham"
+   ]
+  },
+  {
+   "slug": "goi-cuon",
+   "category": "mains",
+   "path": "recipes/mains/goi-cuon.md",
+   "title": "Gỏi cuốn",
+   "subtitle": "Fresh rice paper rolls with prawns, noodles and herbs, and a hoisin peanut dip",
+   "tags": [
+    "prawns",
+    "vietnamese",
+    "rice paper",
+    "lunch"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "makes": "8 rolls, for 2–4",
+    "prep": "25 min",
+    "cook": "5 min"
+   },
+   "photo": null,
+   "ingredients": [
+    "rice-vermicelli",
+    "rice-paper",
+    "prawn",
+    "chicken",
+    "cucumber",
+    "mint",
+    "coriander",
+    "hoisin-sauce",
+    "peanut-butter",
+    "water"
+   ]
+  },
+  {
+   "slug": "kalbi-marinade",
+   "category": "sauces",
+   "path": "recipes/sauces/kalbi-marinade.md",
+   "title": "Kalbi marinade",
+   "subtitle": "Roy Choi’s sweet soy, orange and kiwi marinade for Korean short ribs",
+   "tags": [
+    "beef",
+    "korean",
+    "marinade",
+    "sauce",
+    "grilling"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "makes": "about 2 litres (8 cups)",
+    "prep": "15 min"
+   },
+   "photo": null,
+   "ingredients": [
+    "onion",
+    "garlic",
+    "scallion",
+    "sesame-seeds",
+    "sugar",
+    "kiwifruit",
+    "soy-sauce",
+    "mirin",
+    "apple-juice",
+    "water",
+    "orange-juice",
+    "sesame-oil"
+   ]
+  },
+  {
+   "slug": "kogi-vinaigrette",
+   "category": "sauces",
+   "path": "recipes/sauces/kogi-vinaigrette.md",
+   "title": "Kogi vinaigrette",
+   "subtitle": "Roy Choi’s ginger, chili and soy dressing, blended in one go",
+   "tags": [
+    "korean",
+    "dressing",
+    "vinaigrette",
+    "sauce",
+    "ginger"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "makes": "about 1.5 litres (6 cups)",
+    "prep": "10 min"
+   },
+   "photo": null,
+   "ingredients": [
+    "ginger",
+    "garlic",
+    "scallion",
+    "gochugaru",
+    "sugar",
+    "salt",
+    "black-pepper",
+    "soy-sauce",
+    "rice-vinegar",
+    "sesame-oil",
+    "neutral-oil"
+   ]
+  },
+  {
+   "slug": "nuoc-cham",
+   "category": "sauces",
+   "path": "recipes/sauces/nuoc-cham.md",
+   "title": "Nước chấm",
+   "subtitle": "Vietnamese garlic, lime and fish sauce dip, kept strong",
+   "tags": [
+    "fish sauce",
+    "vietnamese",
+    "dipping sauce",
+    "sauce",
+    "lime"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "makes": "about 250 ml (1 cup)",
+    "prep": "10 min"
+   },
+   "photo": null,
+   "ingredients": [
+    "sugar",
+    "lime",
+    "fish-sauce",
+    "garlic",
+    "chili-garlic-sauce"
+   ]
+  },
+  {
+   "slug": "poffertjes",
+   "category": "baking",
+   "path": "recipes/baking/poffertjes.md",
+   "title": "Poffertjes",
+   "subtitle": "Dutch mini pancakes from a yeasted buckwheat batter, with butter and icing sugar",
+   "tags": [
+    "buckwheat",
+    "dutch",
+    "pancakes",
+    "yeast",
+    "sweet"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "makes": "about 40–50",
+    "prep": "15 min",
+    "cook": "20 min",
+    "rest": "1 h"
+   },
+   "photo": null,
+   "ingredients": [
+    "milk",
+    "sugar",
+    "yeast",
+    "plain-flour",
+    "buckwheat-flour",
+    "salt",
+    "egg",
+    "butter",
+    "icing-sugar"
+   ]
+  },
+  {
+   "slug": "pumpkin-pie-filling",
+   "category": "desserts",
+   "path": "recipes/desserts/pumpkin-pie-filling.md",
+   "title": "Roasted pumpkin pie filling",
+   "subtitle": "A brown sugar custard for one deep pie, made with your own roasted pumpkin",
+   "tags": [
+    "pumpkin",
+    "pie",
+    "custard",
+    "dessert",
+    "baking"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "serves": "8–10",
+    "makes": "one 23 cm (9 in) deep-dish pie",
+    "prep": "15 min",
+    "cook": "1 h",
+    "rest": "3 h"
+   },
+   "photo": null,
+   "ingredients": [
+    "egg",
+    "brown-sugar",
+    "pumpkin-puree",
+    "pumpkin-pie-spice",
+    "cinnamon",
+    "ground-ginger",
+    "nutmeg",
+    "cloves",
+    "vanilla-extract",
+    "salt",
+    "plain-flour",
+    "heavy-cream",
+    "half-and-half",
+    "pie-shell"
+   ]
+  },
+  {
+   "slug": "salsa-verde",
+   "category": "sauces",
+   "path": "recipes/sauces/salsa-verde.md",
+   "title": "Salsa verde",
+   "subtitle": "Roy Choi’s charred tomatillo, chili and scallion salsa with lime and rice vinegar",
+   "tags": [
+    "tomatillo",
+    "mexican",
+    "korean",
+    "salsa",
+    "sauce",
+    "charred"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "makes": "about 500 ml (2 cups)",
+    "prep": "10 min",
+    "cook": "15 min"
+   },
+   "photo": null,
+   "ingredients": [
+    "neutral-oil",
+    "tomatillo",
+    "garlic",
+    "scallion",
+    "jalapeno",
+    "serrano-chilli",
+    "coriander",
+    "lime",
+    "rice-vinegar",
+    "salt",
+    "black-pepper"
+   ]
+  },
+  {
+   "slug": "scallion-dipping-sauce",
+   "category": "sauces",
+   "path": "recipes/sauces/scallion-dipping-sauce.md",
+   "title": "Scallion dipping sauce",
+   "subtitle": "Soy, rice vinegar and gochugaru with plenty of sliced scallions",
+   "tags": [
+    "scallion",
+    "korean",
+    "dipping sauce",
+    "sauce"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "makes": "about 1 litre (4 cups)",
+    "prep": "10 min",
+    "rest": "10 min"
+   },
+   "photo": null,
+   "ingredients": [
+    "soy-sauce",
+    "rice-vinegar",
+    "sugar",
+    "sesame-oil",
+    "gochugaru",
+    "sesame-seeds",
+    "scallion"
+   ]
+  },
+  {
+   "slug": "boeuf-bourguignon",
+   "category": "mains",
+   "path": "recipes/mains/boeuf-bourguignon.md",
+   "title": "Sous vide boeuf bourguignon",
+   "subtitle": "Beef chuck in reduced red wine, 24 hours at 68 °C",
+   "tags": [
+    "beef",
+    "sous vide",
+    "french",
+    "stew"
+   ],
+   "date": "2026-10-19",
+   "facts": {
+    "serves": "4",
+    "prep": "45 min",
+    "cook": "24 h"
+   },
+   "photo": null,
+   "ingredients": [
+    "beef-chuck",
+    "bacon",
+    "red-wine",
+    "beef-stock",
+    "onion",
+    "carrot",
+    "cremini-mushroom",
+    "pearl-onion",
+    "tomato-paste",
+    "garlic",
+    "thyme",
+    "bay-leaf",
+    "butter",
+    "plain-flour",
+    "salt",
+    "black-pepper"
+   ]
+  }
+ ],
+ "ingredients": [
+  {
+   "id": "apple-juice",
+   "name": "Apple juice",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "250 ml (1 cup) mirin, apple juice or water",
+     "quantity": "250 ml (1 cup)",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "bacon",
+   "name": "Bacon",
+   "aliases": [
+    "lardons"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "170 g (6 oz) thick-cut bacon, cut into lardons",
+     "quantity": "170 g (6 oz) thick-cut",
+     "preparation": "cut into lardons"
+    }
+   ]
+  },
+  {
+   "id": "baguette",
+   "name": "Baguette",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the sandwiches",
+     "line": "1 crisp baguette, cut into two lengths",
+     "quantity": "1 crisp",
+     "preparation": "cut into two lengths"
+    }
+   ]
+  },
+  {
+   "id": "bay-leaf",
+   "name": "Bay leaf",
+   "aliases": [
+    "bay leaves"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "3 sprigs thyme and 2 bay leaves",
+     "quantity": "3 sprigs",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "bean-sprouts",
+   "name": "Bean sprouts",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the bowl",
+     "line": "100 g bean sprouts",
+     "quantity": "100 g",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "beef-chuck",
+   "name": "Beef chuck",
+   "aliases": [
+    "beef chuck roast"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "1.4 kg (3 lb) beef chuck roast, cut into 5 cm (2 in) chunks",
+     "quantity": "1.4 kg (3 lb)",
+     "preparation": "cut into 5 cm (2 in) chunks"
+    }
+   ]
+  },
+  {
+   "id": "beef-flank",
+   "name": "Beef flank",
+   "aliases": [
+    "flank steak",
+    "flank"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the beef",
+     "line": "300 g beef sirloin or flank, thinly sliced across the grain",
+     "quantity": "300 g",
+     "preparation": "thinly sliced across the grain"
+    }
+   ]
+  },
+  {
+   "id": "beef-sirloin",
+   "name": "Beef sirloin",
+   "aliases": [
+    "sirloin"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the beef",
+     "line": "300 g beef sirloin or flank, thinly sliced across the grain",
+     "quantity": "300 g",
+     "preparation": "thinly sliced across the grain"
+    }
+   ]
+  },
+  {
+   "id": "beef-stock",
+   "name": "Beef stock",
+   "aliases": [
+    "beef broth"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "500 ml (2 cups) beef stock",
+     "quantity": "500 ml (2 cups)",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "black-pepper",
+   "name": "Black pepper",
+   "aliases": [
+    "pepper"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "Kosher salt and black pepper",
+     "quantity": "",
+     "preparation": ""
+    },
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "2 tsp black pepper",
+     "quantity": "2 tsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "2 large pinches freshly ground black pepper",
+     "quantity": "2 large pinches freshly ground",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "brown-sugar",
+   "name": "Brown sugar",
+   "aliases": [
+    "packed brown sugar"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "165 g (¾ cup) packed brown sugar",
+     "quantity": "165 g (¾ cup)",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "buckwheat-flour",
+   "name": "Buckwheat flour",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "100 g buckwheat flour",
+     "quantity": "100 g",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "butter",
+   "name": "Butter",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "Butter, melted, for the pan",
+     "quantity": "",
+     "preparation": "melted, for the pan"
+    },
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "To serve: butter and icing sugar",
+     "quantity": "To serve:",
+     "preparation": ""
+    },
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "2 tbsp butter mashed with 2 tbsp flour (beurre manié), plus 2 tbsp butter for the mushrooms",
+     "quantity": "2 tbsp",
+     "preparation": "(beurre manié), plus 2 tbsp butter for the mushrooms"
+    }
+   ]
+  },
+  {
+   "id": "carrot",
+   "name": "Carrot",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pickle",
+     "line": "1 carrot, cut into matchsticks",
+     "quantity": "1",
+     "preparation": "cut into matchsticks"
+    },
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "2 large carrots, cut into thick coins",
+     "quantity": "2 large",
+     "preparation": "cut into thick coins"
+    }
+   ]
+  },
+  {
+   "id": "chicken",
+   "name": "Chicken",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "goi-cuon",
+     "group": "For the rolls",
+     "line": "16 cooked prawns, halved lengthways, or 200 g cooked chicken in strips",
+     "quantity": "16 cooked",
+     "preparation": "in strips"
+    }
+   ]
+  },
+  {
+   "id": "chili-garlic-sauce",
+   "name": "Chili garlic sauce",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "nuoc-cham",
+     "group": null,
+     "line": "2 tsp chili garlic sauce",
+     "quantity": "2 tsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "cinnamon",
+   "name": "Cinnamon",
+   "aliases": [
+    "ground cinnamon"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "1 tbsp pumpkin pie spice, or 1 tsp cinnamon, ½ tsp ginger, ¼ tsp nutmeg and ¼ tsp cloves",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "cloves",
+   "name": "Cloves",
+   "aliases": [
+    "ground cloves"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "1 tbsp pumpkin pie spice, or 1 tsp cinnamon, ½ tsp ginger, ¼ tsp nutmeg and ¼ tsp cloves",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "coriander",
+   "name": "Coriander",
+   "aliases": [
+    "cilantro",
+    "coriander leaves"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the sandwiches",
+     "line": "A handful of coriander sprigs, with stalks",
+     "quantity": "A handful of",
+     "preparation": "sprigs, with stalks"
+    },
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the bowl",
+     "line": "1 small bunch coriander, leaves picked",
+     "quantity": "1 small bunch",
+     "preparation": "leaves picked"
+    },
+    {
+     "recipe": "goi-cuon",
+     "group": "For the rolls",
+     "line": "1 small bunch coriander, leaves picked",
+     "quantity": "1 small bunch",
+     "preparation": "leaves picked"
+    },
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "1 bunch cilantro with stems, roughly chopped (about 1½ cups)",
+     "quantity": "1 bunch",
+     "preparation": "with stems, roughly chopped (about 1½ cups)"
+    }
+   ]
+  },
+  {
+   "id": "cremini-mushroom",
+   "name": "Cremini mushroom",
+   "aliases": [
+    "chestnut mushroom"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "280 g (10 oz) cremini mushrooms, quartered",
+     "quantity": "280 g (10 oz)",
+     "preparation": "quartered"
+    }
+   ]
+  },
+  {
+   "id": "cucumber",
+   "name": "Cucumber",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the sandwiches",
+     "line": "½ cucumber, sliced lengthways",
+     "quantity": "½",
+     "preparation": "sliced lengthways"
+    },
+    {
+     "recipe": "goi-cuon",
+     "group": "For the rolls",
+     "line": "½ cucumber, cut into thin sticks",
+     "quantity": "½",
+     "preparation": "cut into thin sticks"
+    }
+   ]
+  },
+  {
+   "id": "daikon",
+   "name": "Daikon",
+   "aliases": [
+    "mooli"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pickle",
+     "line": "150 g daikon, cut into matchsticks",
+     "quantity": "150 g",
+     "preparation": "cut into matchsticks"
+    }
+   ]
+  },
+  {
+   "id": "egg",
+   "name": "Egg",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "2 large eggs",
+     "quantity": "2 large",
+     "preparation": ""
+    },
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "3 large eggs, at room temperature",
+     "quantity": "3 large",
+     "preparation": "at room temperature"
+    }
+   ]
+  },
+  {
+   "id": "tofu",
+   "name": "Firm tofu",
+   "aliases": [
+    "tofu"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pork",
+     "line": "250 g pork shoulder or loin, thinly sliced, or 200 g firm tofu, sliced",
+     "quantity": "250 g",
+     "preparation": "sliced"
+    }
+   ]
+  },
+  {
+   "id": "fish-sauce",
+   "name": "Fish sauce",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pork",
+     "line": "1 tbsp fish sauce (soy sauce for tofu)",
+     "quantity": "1 tbsp",
+     "preparation": "for tofu)"
+    },
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the beef",
+     "line": "1 tbsp fish sauce",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "nuoc-cham",
+     "group": null,
+     "line": "6 tbsp fish sauce",
+     "quantity": "6 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "fried-shallots",
+   "name": "Fried shallots",
+   "aliases": [
+    "crispy shallots"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the bowl",
+     "line": "2 tbsp fried shallots",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "garlic",
+   "name": "Garlic",
+   "aliases": [
+    "garlic clove"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "4 cloves garlic, minced",
+     "quantity": "4 cloves",
+     "preparation": "minced"
+    },
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the beef",
+     "line": "2 cloves garlic, minced",
+     "quantity": "2 cloves",
+     "preparation": "minced"
+    },
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "About 140 g (1 cup) peeled garlic cloves",
+     "quantity": "About 140 g (1 cup) peeled",
+     "preparation": ""
+    },
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "4 garlic cloves, peeled",
+     "quantity": "4",
+     "preparation": "peeled"
+    },
+    {
+     "recipe": "nuoc-cham",
+     "group": null,
+     "line": "6 cloves garlic, minced",
+     "quantity": "6 cloves",
+     "preparation": "minced"
+    },
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "3 garlic cloves, peeled",
+     "quantity": "3",
+     "preparation": "peeled"
+    }
+   ]
+  },
+  {
+   "id": "ginger",
+   "name": "Ginger",
+   "aliases": [
+    "fresh ginger"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "5 cm (2 in) knob of ginger",
+     "quantity": "5 cm (2 in) knob of",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "gochugaru",
+   "name": "Gochugaru",
+   "aliases": [
+    "Korean chili flakes"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "60 ml (¼ cup) gochugaru (Korean chili flakes)",
+     "quantity": "60 ml (¼ cup)",
+     "preparation": "(Korean chili flakes)"
+    },
+    {
+     "recipe": "scallion-dipping-sauce",
+     "group": null,
+     "line": "3 tbsp gochugaru (Korean chili flakes)",
+     "quantity": "3 tbsp",
+     "preparation": "(Korean chili flakes)"
+    }
+   ]
+  },
+  {
+   "id": "ground-ginger",
+   "name": "Ground ginger",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "1 tbsp pumpkin pie spice, or 1 tsp cinnamon, ½ tsp ginger, ¼ tsp nutmeg and ¼ tsp cloves",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "half-and-half",
+   "name": "Half-and-half",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "250 ml (1 cup) heavy cream, or half-and-half for a lighter custard",
+     "quantity": "250 ml (1 cup)",
+     "preparation": "for a lighter custard"
+    }
+   ]
+  },
+  {
+   "id": "heavy-cream",
+   "name": "Heavy cream",
+   "aliases": [
+    "double cream",
+    "whipping cream"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "250 ml (1 cup) heavy cream, or half-and-half for a lighter custard",
+     "quantity": "250 ml (1 cup)",
+     "preparation": "for a lighter custard"
+    }
+   ]
+  },
+  {
+   "id": "hoisin-sauce",
+   "name": "Hoisin sauce",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "goi-cuon",
+     "group": "For the dip",
+     "line": "4 tbsp hoisin sauce",
+     "quantity": "4 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "icing-sugar",
+   "name": "Icing sugar",
+   "aliases": [
+    "powdered sugar",
+    "confectioners' sugar"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "To serve: butter and icing sugar",
+     "quantity": "To serve:",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "jalapeno",
+   "name": "Jalapeño",
+   "aliases": [
+    "jalapeno"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "2 jalapeños",
+     "quantity": "2",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "kiwifruit",
+   "name": "Kiwifruit",
+   "aliases": [
+    "kiwi"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "2 large kiwifruits",
+     "quantity": "2 large",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "lettuce",
+   "name": "Lettuce",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the bowl",
+     "line": "2 handfuls shredded lettuce",
+     "quantity": "2 handfuls shredded",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "lime",
+   "name": "Lime",
+   "aliases": [
+    "lime juice"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "nuoc-cham",
+     "group": null,
+     "line": "4 tbsp lime juice (about 2 limes)",
+     "quantity": "4 tbsp",
+     "preparation": "(about 2 limes)"
+    },
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "2 limes",
+     "quantity": "2",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "mayonnaise",
+   "name": "Mayonnaise",
+   "aliases": [
+    "mayo"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the sandwiches",
+     "line": "2 tbsp mayonnaise",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "milk",
+   "name": "Milk",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "400 ml lukewarm milk, about 38 °C",
+     "quantity": "400 ml lukewarm",
+     "preparation": "about 38 °C"
+    }
+   ]
+  },
+  {
+   "id": "mint",
+   "name": "Mint",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the bowl",
+     "line": "1 small bunch mint, leaves picked",
+     "quantity": "1 small bunch",
+     "preparation": "leaves picked"
+    },
+    {
+     "recipe": "goi-cuon",
+     "group": "For the rolls",
+     "line": "1 small bunch mint, leaves picked",
+     "quantity": "1 small bunch",
+     "preparation": "leaves picked"
+    }
+   ]
+  },
+  {
+   "id": "mirin",
+   "name": "Mirin",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "250 ml (1 cup) mirin, apple juice or water",
+     "quantity": "250 ml (1 cup)",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "neutral-oil",
+   "name": "Neutral oil",
+   "aliases": [
+    "cooking oil",
+    "vegetable oil",
+    "canola oil",
+    "grapeseed oil"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pork",
+     "line": "1 tbsp neutral oil",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the beef",
+     "line": "1 tbsp neutral oil",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "250 ml (1 cup) neutral oil, such as canola or grapeseed",
+     "quantity": "250 ml (1 cup)",
+     "preparation": "such as canola or grapeseed"
+    },
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "1 tbsp cooking oil, plus more as needed",
+     "quantity": "1 tbsp",
+     "preparation": "plus more as needed"
+    }
+   ]
+  },
+  {
+   "id": "nuoc-cham",
+   "name": "Nước chấm",
+   "aliases": [
+    "nuoc cham"
+   ],
+   "notes": "The Vietnamese dipping sauce made by the [Nước chấm](/recipes/sauces/nuoc-cham.md) recipe.",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the sauce",
+     "line": "150 ml nước chấm (recipe), thinned with water (see Notes)",
+     "quantity": "150 ml",
+     "preparation": "(recipe), thinned with water (see Notes)"
+    }
+   ]
+  },
+  {
+   "id": "nutmeg",
+   "name": "Nutmeg",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "1 tbsp pumpkin pie spice, or 1 tsp cinnamon, ½ tsp ginger, ¼ tsp nutmeg and ¼ tsp cloves",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "onion",
+   "name": "Onion",
+   "aliases": [
+    "yellow onion"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "1 large yellow onion, diced",
+     "quantity": "1 large",
+     "preparation": "diced"
+    },
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "1 large onion, peeled and roughly chopped",
+     "quantity": "1 large",
+     "preparation": "peeled and roughly chopped"
+    }
+   ]
+  },
+  {
+   "id": "orange-juice",
+   "name": "Orange juice",
+   "aliases": [
+    "fresh orange juice"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "500 ml (2 cups) fresh orange juice",
+     "quantity": "500 ml (2 cups)",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "pate",
+   "name": "Pâté",
+   "aliases": [
+    "pate"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the sandwiches",
+     "line": "60 g pâté",
+     "quantity": "60 g",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "peanut-butter",
+   "name": "Peanut butter",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "goi-cuon",
+     "group": "For the dip",
+     "line": "1 tbsp peanut butter",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "pearl-onion",
+   "name": "Pearl onion",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "12–15 pearl onions, peeled",
+     "quantity": "12–15",
+     "preparation": "peeled"
+    }
+   ]
+  },
+  {
+   "id": "pie-shell",
+   "name": "Pie shell",
+   "aliases": [
+    "pie crust"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "1 unbaked or blind-baked 23 cm (9 in) deep-dish pie shell",
+     "quantity": "1 unbaked or blind-baked 23 cm (9 in) deep-dish",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "plain-flour",
+   "name": "Plain flour",
+   "aliases": [
+    "all-purpose flour",
+    "flour"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "150 g plain flour",
+     "quantity": "150 g",
+     "preparation": ""
+    },
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "1 tbsp plain flour (optional; it helps set the wetter fresh purée)",
+     "quantity": "1 tbsp",
+     "preparation": "(optional; it helps set the wetter fresh purée)"
+    },
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "2 tbsp butter mashed with 2 tbsp flour (beurre manié), plus 2 tbsp butter for the mushrooms",
+     "quantity": "2 tbsp",
+     "preparation": "(beurre manié), plus 2 tbsp butter for the mushrooms"
+    }
+   ]
+  },
+  {
+   "id": "pork-loin",
+   "name": "Pork loin",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pork",
+     "line": "250 g pork shoulder or loin, thinly sliced, or 200 g firm tofu, sliced",
+     "quantity": "250 g",
+     "preparation": "sliced"
+    }
+   ]
+  },
+  {
+   "id": "pork-shoulder",
+   "name": "Pork shoulder",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pork",
+     "line": "250 g pork shoulder or loin, thinly sliced, or 200 g firm tofu, sliced",
+     "quantity": "250 g",
+     "preparation": "sliced"
+    }
+   ]
+  },
+  {
+   "id": "prawn",
+   "name": "Prawn",
+   "aliases": [
+    "shrimp"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "goi-cuon",
+     "group": "For the rolls",
+     "line": "16 cooked prawns, halved lengthways, or 200 g cooked chicken in strips",
+     "quantity": "16 cooked",
+     "preparation": "in strips"
+    }
+   ]
+  },
+  {
+   "id": "pumpkin-pie-spice",
+   "name": "Pumpkin pie spice",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "1 tbsp pumpkin pie spice, or 1 tsp cinnamon, ½ tsp ginger, ¼ tsp nutmeg and ¼ tsp cloves",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "pumpkin-puree",
+   "name": "Pumpkin purée",
+   "aliases": [
+    "pumpkin puree",
+    "roasted pumpkin purée"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "450 g (2 cups) roasted pumpkin purée, drained if watery",
+     "quantity": "450 g (2 cups)",
+     "preparation": "drained if watery"
+    }
+   ]
+  },
+  {
+   "id": "red-wine",
+   "name": "Red wine",
+   "aliases": [
+    "dry red wine"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "1 bottle (750 ml) dry red wine, such as Pinot Noir or Burgundy",
+     "quantity": "1 bottle (750 ml)",
+     "preparation": "such as Pinot Noir or Burgundy"
+    }
+   ]
+  },
+  {
+   "id": "rice-paper",
+   "name": "Rice paper",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "goi-cuon",
+     "group": "For the rolls",
+     "line": "8 sheets rice paper, about 22 cm (8½ in) across",
+     "quantity": "8 sheets",
+     "preparation": "about 22 cm (8½ in) across"
+    }
+   ]
+  },
+  {
+   "id": "rice-vermicelli",
+   "name": "Rice vermicelli",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the bowl",
+     "line": "150 g rice vermicelli",
+     "quantity": "150 g",
+     "preparation": ""
+    },
+    {
+     "recipe": "goi-cuon",
+     "group": "For the rolls",
+     "line": "50 g rice vermicelli",
+     "quantity": "50 g",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "rice-vinegar",
+   "name": "Rice vinegar",
+   "aliases": [
+    "unseasoned rice vinegar"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pickle",
+     "line": "125 ml (½ cup) rice vinegar",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    },
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "500 ml (2 cups) unseasoned rice vinegar",
+     "quantity": "500 ml (2 cups)",
+     "preparation": ""
+    },
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "125 ml (½ cup) rice vinegar",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    },
+    {
+     "recipe": "scallion-dipping-sauce",
+     "group": null,
+     "line": "175 ml (¾ cup) rice vinegar",
+     "quantity": "175 ml (¾ cup)",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "roasted-peanuts",
+   "name": "Roasted peanuts",
+   "aliases": [
+    "crushed roasted peanuts",
+    "peanuts"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the bowl",
+     "line": "2 tbsp crushed roasted peanuts",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "salt",
+   "name": "Salt",
+   "aliases": [
+    "kosher salt",
+    "sea salt"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "A pinch of salt",
+     "quantity": "A pinch of",
+     "preparation": ""
+    },
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "¼ tsp kosher salt",
+     "quantity": "¼ tsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "banh-mi",
+     "group": "For the pickle",
+     "line": "½ tsp salt",
+     "quantity": "½ tsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "Kosher salt and black pepper",
+     "quantity": "",
+     "preparation": ""
+    },
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "1 tbsp kosher salt",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "3 large pinches kosher salt",
+     "quantity": "3 large pinches",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "scallion",
+   "name": "Scallion",
+   "aliases": [
+    "spring onion",
+    "green onion"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "1 bunch scallions (about 8), roughly chopped",
+     "quantity": "1 bunch",
+     "preparation": "(about 8), roughly chopped"
+    },
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "3 scallions, roughly chopped",
+     "quantity": "3",
+     "preparation": "roughly chopped"
+    },
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "6 scallions",
+     "quantity": "6",
+     "preparation": ""
+    },
+    {
+     "recipe": "scallion-dipping-sauce",
+     "group": null,
+     "line": "1 bunch scallions (about 8), trimmed and thinly sliced",
+     "quantity": "1 bunch",
+     "preparation": "(about 8), trimmed and thinly sliced"
+    }
+   ]
+  },
+  {
+   "id": "serrano-chilli",
+   "name": "Serrano chilli",
+   "aliases": [
+    "serrano"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "2 serrano chillies",
+     "quantity": "2",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "soy-sauce",
+   "name": "Soy sauce",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pork",
+     "line": "1 tbsp fish sauce (soy sauce for tofu)",
+     "quantity": "1 tbsp",
+     "preparation": "for tofu)"
+    },
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "500 ml (2 cups) soy sauce",
+     "quantity": "500 ml (2 cups)",
+     "preparation": ""
+    },
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "250 ml (1 cup) soy sauce",
+     "quantity": "250 ml (1 cup)",
+     "preparation": ""
+    },
+    {
+     "recipe": "scallion-dipping-sauce",
+     "group": null,
+     "line": "500 ml (2 cups) soy sauce",
+     "quantity": "500 ml (2 cups)",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "sugar",
+   "name": "Sugar",
+   "aliases": [
+    "granulated sugar"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "1 tbsp sugar",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "banh-mi",
+     "group": "For the pickle",
+     "line": "2 tbsp sugar",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "banh-mi",
+     "group": "For the pork",
+     "line": "1 tsp sugar",
+     "quantity": "1 tsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "bun-bo-xao",
+     "group": "For the beef",
+     "line": "1 tsp sugar",
+     "quantity": "1 tsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "200 g (1 cup) sugar",
+     "quantity": "200 g (1 cup)",
+     "preparation": ""
+    },
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "50 g (¼ cup) sugar",
+     "quantity": "50 g (¼ cup)",
+     "preparation": ""
+    },
+    {
+     "recipe": "nuoc-cham",
+     "group": null,
+     "line": "4 tbsp granulated sugar",
+     "quantity": "4 tbsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "scallion-dipping-sauce",
+     "group": null,
+     "line": "2 tbsp sugar",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "thyme",
+   "name": "Thyme",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "3 sprigs thyme and 2 bay leaves",
+     "quantity": "3 sprigs",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "sesame-oil",
+   "name": "Toasted sesame oil",
+   "aliases": [
+    "sesame oil"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "250 ml (1 cup) toasted sesame oil",
+     "quantity": "250 ml (1 cup)",
+     "preparation": ""
+    },
+    {
+     "recipe": "kogi-vinaigrette",
+     "group": null,
+     "line": "125 ml (½ cup) toasted sesame oil",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    },
+    {
+     "recipe": "scallion-dipping-sauce",
+     "group": null,
+     "line": "125 ml (½ cup) toasted sesame oil",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "sesame-seeds",
+   "name": "Toasted sesame seeds",
+   "aliases": [
+    "sesame seeds"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "5 tbsp toasted sesame seeds",
+     "quantity": "5 tbsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "scallion-dipping-sauce",
+     "group": null,
+     "line": "2 tbsp toasted sesame seeds, crushed",
+     "quantity": "2 tbsp",
+     "preparation": "crushed"
+    }
+   ]
+  },
+  {
+   "id": "tomatillo",
+   "name": "Tomatillo",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "salsa-verde",
+     "group": null,
+     "line": "2 large tomatillos, husked and rinsed",
+     "quantity": "2 large",
+     "preparation": "husked and rinsed"
+    }
+   ]
+  },
+  {
+   "id": "tomato-paste",
+   "name": "Tomato paste",
+   "aliases": [
+    "tomato purée"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "boeuf-bourguignon",
+     "group": null,
+     "line": "2 tbsp tomato paste",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "vanilla-extract",
+   "name": "Vanilla extract",
+   "aliases": [],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "pumpkin-pie-filling",
+     "group": null,
+     "line": "1 tsp vanilla extract",
+     "quantity": "1 tsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "water",
+   "name": "Water",
+   "aliases": [
+    "warm water"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "banh-mi",
+     "group": "For the pickle",
+     "line": "125 ml (½ cup) warm water",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    },
+    {
+     "recipe": "goi-cuon",
+     "group": "For the dip",
+     "line": "2–3 tbsp warm water",
+     "quantity": "2–3 tbsp",
+     "preparation": ""
+    },
+    {
+     "recipe": "kalbi-marinade",
+     "group": null,
+     "line": "250 ml (1 cup) mirin, apple juice or water",
+     "quantity": "250 ml (1 cup)",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "id": "yeast",
+   "name": "Yeast",
+   "aliases": [
+    "active dry yeast",
+    "instant yeast"
+   ],
+   "notes": "",
+   "substitutions": [],
+   "uses": [
+    {
+     "recipe": "poffertjes",
+     "group": null,
+     "line": "7 g (2½ tsp) active dry or instant yeast",
+     "quantity": "7 g (2½ tsp)",
+     "preparation": ""
+    }
+   ]
+  }
+ ],
+ "integrity": {
+  "recipes/poffertjes.json": "sha384-SLxAnmZoRk9weQo3SpncTcdIyDCvdRwa2DhYwsAhSHnP6T0EyxhKrGvahbmv12zc",
+  "recipes/pumpkin-pie-filling.json": "sha384-QU7RfNd8a1kiJ9JFb3HApBQ7w3c8L/MN44O88obGPJYfzyuOUUpFoe8gTFMrxEQB",
+  "recipes/banh-mi.json": "sha384-MolZYWd/NchMixcATidF96mzBvT6T8YqumDFPN6upTWyyHZRiY0jOGJPrFV5KjOU",
+  "recipes/boeuf-bourguignon.json": "sha384-viv+ruAIU6R9G4w74OQG3WhklD50/ldixbNeFeGXDYpFq1v406TQBhRsgkHr7wLz",
+  "recipes/bun-bo-xao.json": "sha384-RgB80oAnRJBKmDrwiPx74QwD27/B60gjMcWJzBsp3NMP/gSOgtqb3NmOyfnHRs3W",
+  "recipes/goi-cuon.json": "sha384-MbxY+LuaBGi1m2gHJ5fHl0hKHZNb4Si1+YVhrqIgHE1Wus+XO2coqezteida9yyD",
+  "recipes/kalbi-marinade.json": "sha384-QIrGzmxBjLa9PTkuV9PyHNFA26a1E7oXXMXYouFGpSPkKdQty8LtXHuhvVvKB2Rv",
+  "recipes/kogi-vinaigrette.json": "sha384-dYzGh4wnbkWMYGSBDwnbmWkj+CBlri5OtTdmF3KFBIpwseDOO/HkaCNLeGJCU0B4",
+  "recipes/nuoc-cham.json": "sha384-j6OmPzaAhtCZ3UerCdseN96PuHwntv5xwi8vv4bIJXa8qlclkTtp2T9ANtHHcly8",
+  "recipes/salsa-verde.json": "sha384-+dpFzlWBFG2Q348EZQegM8cpMAZ9clx13GAZ53+wgPSef9ugt7O1lOSCdgweUuHK",
+  "recipes/scallion-dipping-sauce.json": "sha384-jnFxulweubcCXgL0iba75tlRH1IHP1ubnaN8pvgSCA7k+/UtO6+G/utAP6z00zSf"
+ }
+}

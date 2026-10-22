@@ -1,0 +1,204 @@
+{
+ "slug": "salsa-verde",
+ "category": "sauces",
+ "path": "recipes/sauces/salsa-verde.md",
+ "title": "Salsa verde",
+ "subtitle": "Roy Choi’s charred tomatillo, chili and scallion salsa with lime and rice vinegar",
+ "tags": [
+  "tomatillo",
+  "mexican",
+  "korean",
+  "salsa",
+  "sauce",
+  "charred"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "makes": "about 500 ml (2 cups)",
+  "prep": "10 min",
+  "cook": "15 min"
+ },
+ "source": "https://www.masterclass.com/articles/salsa-verde-recipe",
+ "photo": null,
+ "photoAlt": "",
+ "intro": "The flavour comes from charring the vegetables properly, so take each one\noff the heat as soon as it is blistered and soft, before it burns.",
+ "ingredientGroups": [
+  {
+   "title": null,
+   "items": [
+    {
+     "markdown": "1 tbsp [cooking oil](/ingredients/neutral-oil.md), plus more as needed",
+     "refs": [
+      {
+       "id": "neutral-oil",
+       "label": "cooking oil"
+      }
+     ],
+     "text": "1 tbsp cooking oil, plus more as needed",
+     "quantity": "1 tbsp",
+     "preparation": "plus more as needed"
+    },
+    {
+     "markdown": "2 large [tomatillos](/ingredients/tomatillo.md), husked and rinsed",
+     "refs": [
+      {
+       "id": "tomatillo",
+       "label": "tomatillos"
+      }
+     ],
+     "text": "2 large tomatillos, husked and rinsed",
+     "quantity": "2 large",
+     "preparation": "husked and rinsed"
+    },
+    {
+     "markdown": "3 [garlic cloves](/ingredients/garlic.md), peeled",
+     "refs": [
+      {
+       "id": "garlic",
+       "label": "garlic cloves"
+      }
+     ],
+     "text": "3 garlic cloves, peeled",
+     "quantity": "3",
+     "preparation": "peeled"
+    },
+    {
+     "markdown": "6 [scallions](/ingredients/scallion.md)",
+     "refs": [
+      {
+       "id": "scallion",
+       "label": "scallions"
+      }
+     ],
+     "text": "6 scallions",
+     "quantity": "6",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 [jalapeños](/ingredients/jalapeno.md)",
+     "refs": [
+      {
+       "id": "jalapeno",
+       "label": "jalapeños"
+      }
+     ],
+     "text": "2 jalapeños",
+     "quantity": "2",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 [serrano chillies](/ingredients/serrano-chilli.md)",
+     "refs": [
+      {
+       "id": "serrano-chilli",
+       "label": "serrano chillies"
+      }
+     ],
+     "text": "2 serrano chillies",
+     "quantity": "2",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 bunch [cilantro](/ingredients/coriander.md) with stems, roughly chopped (about 1½ cups)",
+     "refs": [
+      {
+       "id": "coriander",
+       "label": "cilantro"
+      }
+     ],
+     "text": "1 bunch cilantro with stems, roughly chopped (about 1½ cups)",
+     "quantity": "1 bunch",
+     "preparation": "with stems, roughly chopped (about 1½ cups)"
+    },
+    {
+     "markdown": "2 [limes](/ingredients/lime.md)",
+     "refs": [
+      {
+       "id": "lime",
+       "label": "limes"
+      }
+     ],
+     "text": "2 limes",
+     "quantity": "2",
+     "preparation": ""
+    },
+    {
+     "markdown": "125 ml (½ cup) [rice vinegar](/ingredients/rice-vinegar.md)",
+     "refs": [
+      {
+       "id": "rice-vinegar",
+       "label": "rice vinegar"
+      }
+     ],
+     "text": "125 ml (½ cup) rice vinegar",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "3 large pinches [kosher salt](/ingredients/salt.md)",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "kosher salt"
+      }
+     ],
+     "text": "3 large pinches kosher salt",
+     "quantity": "3 large pinches",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 large pinches freshly ground [black pepper](/ingredients/black-pepper.md)",
+     "refs": [
+      {
+       "id": "black-pepper",
+       "label": "black pepper"
+      }
+     ],
+     "text": "2 large pinches freshly ground black pepper",
+     "quantity": "2 large pinches freshly ground",
+     "preparation": ""
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Char the vegetables",
+   "markdown": "Heat the oil in a large skillet or on a griddle over medium-high heat. Add the tomatillos, garlic, scallions, jalapeños and serranos and turn them often until blistered and blackened in spots, 10–15 minutes. Take each one off as soon as it has softened."
+  },
+  {
+   "name": "Prepare the chillies",
+   "markdown": "Let everything cool a little. Pull the stems off the chillies; for a milder salsa, split them and scrape out the seeds."
+  },
+  {
+   "name": "Fill the blender",
+   "markdown": "Put the charred vegetables in the blender jar and pack the cilantro on top. Squeeze in the juice of both limes, then add the rice vinegar, salt and pepper."
+  },
+  {
+   "name": "Blend",
+   "markdown": "Blend on high for about 15 seconds, just until smooth. If it is too thick, blend on low with a splash of water or oil."
+  },
+  {
+   "name": "Season",
+   "markdown": "Taste and adjust the salt and pepper."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "- 1 tbsp [cooking oil](/ingredients/neutral-oil.md), plus more as needed\n- 2 large [tomatillos](/ingredients/tomatillo.md), husked and rinsed\n- 3 [garlic cloves](/ingredients/garlic.md), peeled\n- 6 [scallions](/ingredients/scallion.md)\n- 2 [jalapeños](/ingredients/jalapeno.md)\n- 2 [serrano chillies](/ingredients/serrano-chilli.md)\n- 1 bunch [cilantro](/ingredients/coriander.md) with stems, roughly chopped (about 1½ cups)\n- 2 [limes](/ingredients/lime.md)\n- 125 ml (½ cup) [rice vinegar](/ingredients/rice-vinegar.md)\n- 3 large pinches [kosher salt](/ingredients/salt.md)\n- 2 large pinches freshly ground [black pepper](/ingredients/black-pepper.md)"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Char the vegetables.** Heat the oil in a large skillet or on a griddle over medium-high heat. Add the tomatillos, garlic, scallions, jalapeños and serranos and turn them often until blistered and blackened in spots, 10–15 minutes. Take each one off as soon as it has softened.\n2. **Prepare the chillies.** Let everything cool a little. Pull the stems off the chillies; for a milder salsa, split them and scrape out the seeds.\n3. **Fill the blender.** Put the charred vegetables in the blender jar and pack the cilantro on top. Squeeze in the juice of both limes, then add the rice vinegar, salt and pepper.\n4. **Blend.** Blend on high for about 15 seconds, just until smooth. If it is too thick, blend on low with a splash of water or oil.\n5. **Season.** Taste and adjust the salt and pepper."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- Keeps for up to a week in a sealed jar in the fridge.\n- Rolling the limes firmly on the counter before halving them gets more juice out.\n- Made for tacos, especially the Kogi short rib tacos with [Kalbi marinade](../sauces/kalbi-marinade.md) beef, but also good with eggs and grilled fish."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Salsa verde (green tomatillo salsa)](https://www.foodnetwork.com/recipes/salsa-verde-green-tomatillo-salsa-recipe-1939985) (Rick Bayless, Food Network), the classic Mexican version with onion and no vinegar\n- [Roasted tomatillo salsa](https://www.npr.org/95356866) (NPR), roasted under the broiler instead of in a pan\n- [Korean short rib tacos](https://www.masterclass.com/articles/korean-short-rib-tacos-recipe-by-roy-choi) (MasterClass), the Roy Choi taco this salsa goes on"
+  }
+ ]
+}

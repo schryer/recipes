@@ -1,0 +1,191 @@
+{
+ "slug": "goi-cuon",
+ "category": "mains",
+ "path": "recipes/mains/goi-cuon.md",
+ "title": "Gỏi cuốn",
+ "subtitle": "Fresh rice paper rolls with prawns, noodles and herbs, and a hoisin peanut dip",
+ "tags": [
+  "prawns",
+  "vietnamese",
+  "rice paper",
+  "lunch"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "makes": "8 rolls, for 2–4",
+  "prep": "25 min",
+  "cook": "5 min"
+ },
+ "source": null,
+ "photo": null,
+ "photoAlt": "",
+ "intro": "> [!NOTE]\n> **Draft quantities for David to check.** The vault note names the\n> ingredients and steps but no amounts, so the quantities and timings are\n> worked out and haven’t been tested.\n\nFresh spring rolls that can be rolled ahead or at the table. Soften the\nrice paper only briefly: it keeps softening on the board, and soaked too\nlong it tears.",
+ "ingredientGroups": [
+  {
+   "title": "For the rolls",
+   "items": [
+    {
+     "markdown": "50 g [rice vermicelli](/ingredients/rice-vermicelli.md)",
+     "refs": [
+      {
+       "id": "rice-vermicelli",
+       "label": "rice vermicelli"
+      }
+     ],
+     "text": "50 g rice vermicelli",
+     "quantity": "50 g",
+     "preparation": ""
+    },
+    {
+     "markdown": "8 sheets [rice paper](/ingredients/rice-paper.md), about 22 cm (8½ in) across",
+     "refs": [
+      {
+       "id": "rice-paper",
+       "label": "rice paper"
+      }
+     ],
+     "text": "8 sheets rice paper, about 22 cm (8½ in) across",
+     "quantity": "8 sheets",
+     "preparation": "about 22 cm (8½ in) across"
+    },
+    {
+     "markdown": "16 cooked [prawns](/ingredients/prawn.md), halved lengthways, or 200 g cooked [chicken](/ingredients/chicken.md) in strips",
+     "refs": [
+      {
+       "id": "prawn",
+       "label": "prawns"
+      },
+      {
+       "id": "chicken",
+       "label": "chicken"
+      }
+     ],
+     "text": "16 cooked prawns, halved lengthways, or 200 g cooked chicken in strips",
+     "quantity": "16 cooked",
+     "preparation": "in strips"
+    },
+    {
+     "markdown": "½ [cucumber](/ingredients/cucumber.md), cut into thin sticks",
+     "refs": [
+      {
+       "id": "cucumber",
+       "label": "cucumber"
+      }
+     ],
+     "text": "½ cucumber, cut into thin sticks",
+     "quantity": "½",
+     "preparation": "cut into thin sticks"
+    },
+    {
+     "markdown": "1 small bunch [mint](/ingredients/mint.md), leaves picked",
+     "refs": [
+      {
+       "id": "mint",
+       "label": "mint"
+      }
+     ],
+     "text": "1 small bunch mint, leaves picked",
+     "quantity": "1 small bunch",
+     "preparation": "leaves picked"
+    },
+    {
+     "markdown": "1 small bunch [coriander](/ingredients/coriander.md), leaves picked",
+     "refs": [
+      {
+       "id": "coriander",
+       "label": "coriander"
+      }
+     ],
+     "text": "1 small bunch coriander, leaves picked",
+     "quantity": "1 small bunch",
+     "preparation": "leaves picked"
+    }
+   ]
+  },
+  {
+   "title": "For the dip",
+   "items": [
+    {
+     "markdown": "4 tbsp [hoisin sauce](/ingredients/hoisin-sauce.md)",
+     "refs": [
+      {
+       "id": "hoisin-sauce",
+       "label": "hoisin sauce"
+      }
+     ],
+     "text": "4 tbsp hoisin sauce",
+     "quantity": "4 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 tbsp [peanut butter](/ingredients/peanut-butter.md)",
+     "refs": [
+      {
+       "id": "peanut-butter",
+       "label": "peanut butter"
+      }
+     ],
+     "text": "1 tbsp peanut butter",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "2–3 tbsp [warm water](/ingredients/water.md)",
+     "refs": [
+      {
+       "id": "water",
+       "label": "warm water"
+      }
+     ],
+     "text": "2–3 tbsp warm water",
+     "quantity": "2–3 tbsp",
+     "preparation": ""
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Cook the noodles",
+   "markdown": "Boil the vermicelli for 3–5 minutes, then drain, rinse under cold water and drain well."
+  },
+  {
+   "name": "Make the dip",
+   "markdown": "Stir the hoisin and peanut butter together, then add warm water a spoonful at a time until it pours."
+  },
+  {
+   "name": "Soften the rice paper",
+   "markdown": "Dip one sheet in a wide bowl of warm water for about 5 seconds and lay it flat on a damp board."
+  },
+  {
+   "name": "Fill",
+   "markdown": "Across the lower third, lay a small handful of noodles, some herbs, cucumber and four prawn halves (cut side up, so they show through)."
+  },
+  {
+   "name": "Roll",
+   "markdown": "Fold the bottom edge over the filling, fold in the sides, and roll up tightly. Repeat with the rest."
+  },
+  {
+   "name": "Serve",
+   "markdown": "Serve straight away with the dip."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "### For the rolls\n\n- 50 g [rice vermicelli](/ingredients/rice-vermicelli.md)\n- 8 sheets [rice paper](/ingredients/rice-paper.md), about 22 cm (8½ in) across\n- 16 cooked [prawns](/ingredients/prawn.md), halved lengthways, or 200 g cooked [chicken](/ingredients/chicken.md) in strips\n- ½ [cucumber](/ingredients/cucumber.md), cut into thin sticks\n- 1 small bunch [mint](/ingredients/mint.md), leaves picked\n- 1 small bunch [coriander](/ingredients/coriander.md), leaves picked\n\n### For the dip\n\n- 4 tbsp [hoisin sauce](/ingredients/hoisin-sauce.md)\n- 1 tbsp [peanut butter](/ingredients/peanut-butter.md)\n- 2–3 tbsp [warm water](/ingredients/water.md)"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Cook the noodles.** Boil the vermicelli for 3–5 minutes, then drain, rinse under cold water and drain well.\n2. **Make the dip.** Stir the hoisin and peanut butter together, then add warm water a spoonful at a time until it pours.\n3. **Soften the rice paper.** Dip one sheet in a wide bowl of warm water for about 5 seconds and lay it flat on a damp board.\n4. **Fill.** Across the lower third, lay a small handful of noodles, some herbs, cucumber and four prawn halves (cut side up, so they show through).\n5. **Roll.** Fold the bottom edge over the filling, fold in the sides, and roll up tightly. Repeat with the rest.\n6. **Serve.** Serve straight away with the dip."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- To roll at the table, set out the fillings and a bowl of warm water and let everyone make their own.\n- Rolls kept under a damp tea towel stay soft for an hour or two; in the fridge the rice paper hardens."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Vietnamese spring rolls with peanut sauce](https://cookingwithcurls.com/2015/05/14/vietnamese-spring-rolls-with-peanut-sauce/) (Cooking with Curls), with pork as well as prawns\n- [How to make gỏi cuốn](https://thewholeu.uw.edu/2017/04/26/foods-of-the-world-goi-cuon-fresh-vietnamese-spring-rolls) (The Whole U, University of Washington)\n- [Bún bò xào](../mains/bun-bo-xao.md), the same noodles and herbs as a bowl"
+  }
+ ]
+}
