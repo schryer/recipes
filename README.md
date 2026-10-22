@@ -1,6 +1,6 @@
 # Recipes
 
-Family recipes, served at **[schryer.eu/recipes](https://schryer.eu/recipes/)**
+Family recipes, served at **[recipes.schryer.eu](https://recipes.schryer.eu/)**
 by [recipe-host](https://github.com/schryer/recipe-host). Each recipe has a
 printable A5 card, and every ingredient is on a master list with the recipes
 it's used in and what can replace it.

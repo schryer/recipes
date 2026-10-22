@@ -3,7 +3,7 @@
 title: Recipes
 description: Family recipes, each with a printable A5 card.
 repo: schryer/recipes
-url: https://schryer.eu/recipes/
+url: https://recipes.schryer.eu/
 # Category folders in the order the front page lists them; others follow
 # alphabetically.
 categories: [mains, sauces, sides, desserts, baking, drinks]
