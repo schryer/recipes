@@ -20,7 +20,7 @@ jobs:
     if: contains(github.event.issue.body, '```recipe-host')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: schryer/recipe-host@v0.1.1
         with:
           command: request
