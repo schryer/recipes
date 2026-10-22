@@ -31,6 +31,6 @@ jobs:
           deploy-key: ${{ secrets.RECIPES_DEPLOY_KEY }}
           deploy-target: deploy@schryer.eu:./
           # A token that may deploy Cloudflare Pages and nothing else.
-          cloudflare-api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          cloudflare-api-token: ${{ secrets.CLOUDFLARE_GITHUB_API_TOKEN }}
           cloudflare-account-id: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
           cloudflare-project: schryer-recipes
