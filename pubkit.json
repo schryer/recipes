@@ -1,3 +1,8 @@
 {
-  "protect": {"checks": ["build"], "tags": false}
+  "kind": "service",
+  "ci": {},
+  "security": {
+    "dependabot": {"schedule": "daily", "ecosystems": ["github-actions"]}
+  },
+  "protect": {"checks": ["ci / passed", "build"], "tags": false}
 }
