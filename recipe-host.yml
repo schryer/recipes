@@ -7,3 +7,9 @@ url: https://recipes.schryer.eu/
 # Category folders in the order the front page lists them; others follow
 # alphabetically.
 categories: [mains, sauces, sides, desserts, baking, drinks]
+# Readers sign in at share.schryer.eu, the family's sign-in for shared photos,
+# so one invitation (schryer-eu-infra scripts/photos/invite.sh) covers both.
+# It also keeps each reader's favourites (schryer-eu-infra docs/photos/SHARING.md).
+login:
+  session: https://share.schryer.eu/recipes/v1/
+  required: true
