@@ -11,7 +11,7 @@ permissions:
 jobs:
   checks:
     name: ci
-    uses: schryer/pubkit/.github/workflows/job-service-checks.yml@v0.14.2
+    uses: Sustenaut/pubkit/.github/workflows/job-service-checks.yml@f0984614ce18dd9f5eedfb7a39451c2bff89d232 # v0.17.0
 
   # The one check a ruleset requires: it passes only when every job
   # above succeeded. None of them is ever skipped for not being asked for.
