@@ -1,0 +1,196 @@
+{
+ "slug": "poffertjes",
+ "category": "baking",
+ "path": "recipes/baking/poffertjes.md",
+ "title": "Poffertjes",
+ "subtitle": "Dutch mini pancakes from a yeasted buckwheat batter, with butter and icing sugar",
+ "tags": [
+  "buckwheat",
+  "dutch",
+  "pancakes",
+  "yeast",
+  "sweet"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "makes": "about 40–50",
+  "prep": "15 min",
+  "cook": "20 min",
+  "rest": "1 h"
+ },
+ "source": "https://cakieshq.com/recipe/poffertjes-dutch-mini-pancakes/",
+ "photo": null,
+ "photoAlt": "",
+ "intro": "Yeast and buckwheat give poffertjes their light, spongy and slightly\nchewy texture. Let the batter rise properly, and flip them as soon as the\nbottoms are golden.",
+ "ingredientGroups": [
+  {
+   "title": null,
+   "items": [
+    {
+     "markdown": "400 ml lukewarm [milk](/ingredients/milk.md), about 38 °C",
+     "refs": [
+      {
+       "id": "milk",
+       "label": "milk"
+      }
+     ],
+     "text": "400 ml lukewarm milk, about 38 °C",
+     "quantity": "400 ml lukewarm",
+     "preparation": "about 38 °C"
+    },
+    {
+     "markdown": "1 tbsp [sugar](/ingredients/sugar.md)",
+     "refs": [
+      {
+       "id": "sugar",
+       "label": "sugar"
+      }
+     ],
+     "text": "1 tbsp sugar",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "7 g (2½ tsp) [active dry or instant yeast](/ingredients/yeast.md)",
+     "refs": [
+      {
+       "id": "yeast",
+       "label": "active dry or instant yeast"
+      }
+     ],
+     "text": "7 g (2½ tsp) active dry or instant yeast",
+     "quantity": "7 g (2½ tsp)",
+     "preparation": ""
+    },
+    {
+     "markdown": "150 g [plain flour](/ingredients/plain-flour.md)",
+     "refs": [
+      {
+       "id": "plain-flour",
+       "label": "plain flour"
+      }
+     ],
+     "text": "150 g plain flour",
+     "quantity": "150 g",
+     "preparation": ""
+    },
+    {
+     "markdown": "100 g [buckwheat flour](/ingredients/buckwheat-flour.md)",
+     "refs": [
+      {
+       "id": "buckwheat-flour",
+       "label": "buckwheat flour"
+      }
+     ],
+     "text": "100 g buckwheat flour",
+     "quantity": "100 g",
+     "preparation": ""
+    },
+    {
+     "markdown": "A pinch of [salt](/ingredients/salt.md)",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "salt"
+      }
+     ],
+     "text": "A pinch of salt",
+     "quantity": "A pinch of",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 large [eggs](/ingredients/egg.md)",
+     "refs": [
+      {
+       "id": "egg",
+       "label": "eggs"
+      }
+     ],
+     "text": "2 large eggs",
+     "quantity": "2 large",
+     "preparation": ""
+    },
+    {
+     "markdown": "[Butter](/ingredients/butter.md), melted, for the pan",
+     "refs": [
+      {
+       "id": "butter",
+       "label": "Butter"
+      }
+     ],
+     "text": "Butter, melted, for the pan",
+     "quantity": "",
+     "preparation": "melted, for the pan"
+    },
+    {
+     "markdown": "To serve: [butter](/ingredients/butter.md) and [icing sugar](/ingredients/icing-sugar.md)",
+     "refs": [
+      {
+       "id": "butter",
+       "label": "butter"
+      },
+      {
+       "id": "icing-sugar",
+       "label": "icing sugar"
+      }
+     ],
+     "text": "To serve: butter and icing sugar",
+     "quantity": "To serve:",
+     "preparation": ""
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Wake the yeast",
+   "markdown": "Stir the milk, sugar and yeast together and leave for 5–10 minutes, until frothy."
+  },
+  {
+   "name": "Mix the dry ingredients",
+   "markdown": "Whisk both flours and the salt in a large bowl."
+  },
+  {
+   "name": "Make the batter",
+   "markdown": "Add the yeast mixture and the eggs and whisk until completely smooth; a hand mixer helps."
+  },
+  {
+   "name": "Let it rise",
+   "markdown": "Cover and leave in a warm place for about 1 hour, until doubled, light and bubbly."
+  },
+  {
+   "name": "Heat the pan",
+   "markdown": "Heat a poffertjes pan over medium heat and brush each hollow generously with melted butter."
+  },
+  {
+   "name": "Fill and cook",
+   "markdown": "Pour the batter into a squeeze bottle or piping bag and fill each hollow about three-quarters full. Cook for 1–2 minutes, until the bottoms are golden and bubbles show on top."
+  },
+  {
+   "name": "Flip",
+   "markdown": "Turn each one with a skewer or fork and cook for about 1 minute more, until golden."
+  },
+  {
+   "name": "Serve",
+   "markdown": "Pile them on a plate while warm, top with a knob of butter and dust heavily with icing sugar."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "- 400 ml lukewarm [milk](/ingredients/milk.md), about 38 °C\n- 1 tbsp [sugar](/ingredients/sugar.md)\n- 7 g (2½ tsp) [active dry or instant yeast](/ingredients/yeast.md)\n- 150 g [plain flour](/ingredients/plain-flour.md)\n- 100 g [buckwheat flour](/ingredients/buckwheat-flour.md)\n- A pinch of [salt](/ingredients/salt.md)\n- 2 large [eggs](/ingredients/egg.md)\n- [Butter](/ingredients/butter.md), melted, for the pan\n- To serve: [butter](/ingredients/butter.md) and [icing sugar](/ingredients/icing-sugar.md)"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Wake the yeast.** Stir the milk, sugar and yeast together and leave for 5–10 minutes, until frothy.\n2. **Mix the dry ingredients.** Whisk both flours and the salt in a large bowl.\n3. **Make the batter.** Add the yeast mixture and the eggs and whisk until completely smooth; a hand mixer helps.\n4. **Let it rise.** Cover and leave in a warm place for about 1 hour, until doubled, light and bubbly.\n5. **Heat the pan.** Heat a poffertjes pan over medium heat and brush each hollow generously with melted butter.\n6. **Fill and cook.** Pour the batter into a squeeze bottle or piping bag and fill each hollow about three-quarters full. Cook for 1–2 minutes, until the bottoms are golden and bubbles show on top.\n7. **Flip.** Turn each one with a skewer or fork and cook for about 1 minute more, until golden.\n8. **Serve.** Pile them on a plate while warm, top with a knob of butter and dust heavily with icing sugar."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- An aebleskiver pan works instead of a poffertjes pan; the poffertjes come out rounder.\n- The note gave cup measures that don’t match its grams (1¾ cups is closer to 220 g of flour), so this uses the grams."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Easy and quick poffertjes](https://rutgerbakt.nl/en/basic-recipes/easy-and-quick-poffertjes-recipe/) (Rutger Bakt), a Dutch baker’s version\n- [Poffertjes (mini buckwheat pancakes)](https://bakerybits.co.uk/bakers-blog/poffertjes-mini-buckwheat-pancakes-street-food) (Bakery Bits)\n- [Poffertjes (Dutch mini pancakes)](https://tarasmulticulturaltable.com/poffertjes-dutch-mini-pancakes/) (Tara’s Multicultural Table)"
+  }
+ ]
+}

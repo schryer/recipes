@@ -1,0 +1,194 @@
+{
+ "slug": "kogi-vinaigrette",
+ "category": "sauces",
+ "path": "recipes/sauces/kogi-vinaigrette.md",
+ "title": "Kogi vinaigrette",
+ "subtitle": "Roy Choi’s ginger, chili and soy dressing, blended in one go",
+ "tags": [
+  "korean",
+  "dressing",
+  "vinaigrette",
+  "sauce",
+  "ginger"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "makes": "about 1.5 litres (6 cups)",
+  "prep": "10 min"
+ },
+ "source": "https://www.masterclass.com/articles/korean-vinaigrette",
+ "photo": null,
+ "photoAlt": "",
+ "intro": "One of the Kogi truck’s mother sauces: everything goes in the blender at\nonce. Use unseasoned rice vinegar, or the dressing ends up too sweet.",
+ "ingredientGroups": [
+  {
+   "title": null,
+   "items": [
+    {
+     "markdown": "5 cm (2 in) knob of [ginger](/ingredients/ginger.md)",
+     "refs": [
+      {
+       "id": "ginger",
+       "label": "ginger"
+      }
+     ],
+     "text": "5 cm (2 in) knob of ginger",
+     "quantity": "5 cm (2 in) knob of",
+     "preparation": ""
+    },
+    {
+     "markdown": "4 [garlic cloves](/ingredients/garlic.md), peeled",
+     "refs": [
+      {
+       "id": "garlic",
+       "label": "garlic cloves"
+      }
+     ],
+     "text": "4 garlic cloves, peeled",
+     "quantity": "4",
+     "preparation": "peeled"
+    },
+    {
+     "markdown": "3 [scallions](/ingredients/scallion.md), roughly chopped",
+     "refs": [
+      {
+       "id": "scallion",
+       "label": "scallions"
+      }
+     ],
+     "text": "3 scallions, roughly chopped",
+     "quantity": "3",
+     "preparation": "roughly chopped"
+    },
+    {
+     "markdown": "60 ml (¼ cup) [gochugaru](/ingredients/gochugaru.md) (Korean chili flakes)",
+     "refs": [
+      {
+       "id": "gochugaru",
+       "label": "gochugaru"
+      }
+     ],
+     "text": "60 ml (¼ cup) gochugaru (Korean chili flakes)",
+     "quantity": "60 ml (¼ cup)",
+     "preparation": "(Korean chili flakes)"
+    },
+    {
+     "markdown": "50 g (¼ cup) [sugar](/ingredients/sugar.md)",
+     "refs": [
+      {
+       "id": "sugar",
+       "label": "sugar"
+      }
+     ],
+     "text": "50 g (¼ cup) sugar",
+     "quantity": "50 g (¼ cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 tbsp [kosher salt](/ingredients/salt.md)",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "kosher salt"
+      }
+     ],
+     "text": "1 tbsp kosher salt",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 tsp [black pepper](/ingredients/black-pepper.md)",
+     "refs": [
+      {
+       "id": "black-pepper",
+       "label": "black pepper"
+      }
+     ],
+     "text": "2 tsp black pepper",
+     "quantity": "2 tsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "250 ml (1 cup) [soy sauce](/ingredients/soy-sauce.md)",
+     "refs": [
+      {
+       "id": "soy-sauce",
+       "label": "soy sauce"
+      }
+     ],
+     "text": "250 ml (1 cup) soy sauce",
+     "quantity": "250 ml (1 cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "500 ml (2 cups) [unseasoned rice vinegar](/ingredients/rice-vinegar.md)",
+     "refs": [
+      {
+       "id": "rice-vinegar",
+       "label": "unseasoned rice vinegar"
+      }
+     ],
+     "text": "500 ml (2 cups) unseasoned rice vinegar",
+     "quantity": "500 ml (2 cups)",
+     "preparation": ""
+    },
+    {
+     "markdown": "125 ml (½ cup) [toasted sesame oil](/ingredients/sesame-oil.md)",
+     "refs": [
+      {
+       "id": "sesame-oil",
+       "label": "toasted sesame oil"
+      }
+     ],
+     "text": "125 ml (½ cup) toasted sesame oil",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "250 ml (1 cup) [neutral oil](/ingredients/neutral-oil.md), such as canola or grapeseed",
+     "refs": [
+      {
+       "id": "neutral-oil",
+       "label": "neutral oil"
+      }
+     ],
+     "text": "250 ml (1 cup) neutral oil, such as canola or grapeseed",
+     "quantity": "250 ml (1 cup)",
+     "preparation": "such as canola or grapeseed"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Peel the ginger",
+   "markdown": "Scrape off the skin with the edge of a spoon, then slice it into thin coins."
+  },
+  {
+   "name": "Blend",
+   "markdown": "Put the ginger and everything else in the blender jar and blend on high for about 15 seconds, until smooth."
+  },
+  {
+   "name": "Store",
+   "markdown": "Pour into a sealable jar and refrigerate. Shake before using, as the oil separates."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "- 5 cm (2 in) knob of [ginger](/ingredients/ginger.md)\n- 4 [garlic cloves](/ingredients/garlic.md), peeled\n- 3 [scallions](/ingredients/scallion.md), roughly chopped\n- 60 ml (¼ cup) [gochugaru](/ingredients/gochugaru.md) (Korean chili flakes)\n- 50 g (¼ cup) [sugar](/ingredients/sugar.md)\n- 1 tbsp [kosher salt](/ingredients/salt.md)\n- 2 tsp [black pepper](/ingredients/black-pepper.md)\n- 250 ml (1 cup) [soy sauce](/ingredients/soy-sauce.md)\n- 500 ml (2 cups) [unseasoned rice vinegar](/ingredients/rice-vinegar.md)\n- 125 ml (½ cup) [toasted sesame oil](/ingredients/sesame-oil.md)\n- 250 ml (1 cup) [neutral oil](/ingredients/neutral-oil.md), such as canola or grapeseed"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Peel the ginger.** Scrape off the skin with the edge of a spoon, then slice it into thin coins.\n2. **Blend.** Put the ginger and everything else in the blender jar and blend on high for about 15 seconds, until smooth.\n3. **Store.** Pour into a sealable jar and refrigerate. Shake before using, as the oil separates."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- Keeps for up to 3 months in the fridge, according to the source.\n- Toss it through shredded cabbage for Kogi slaw, use it on salads and cold noodles, or brush it over grilled meat and vegetables."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Mother sauce: Kogi vinaigrette](https://www.masterclass.com/classes/roy-choi-teaches-intuitive-cooking/chapters/mother-sauce-kogi-vinaigrette) (MasterClass), Roy Choi making it on video\n- [Scallion dipping sauce](../sauces/scallion-dipping-sauce.md), its sibling with the same soy, vinegar and gochugaru base but no oil emulsion"
+  }
+ ]
+}

@@ -1,0 +1,254 @@
+{
+ "slug": "boeuf-bourguignon",
+ "category": "mains",
+ "path": "recipes/mains/boeuf-bourguignon.md",
+ "title": "Sous vide boeuf bourguignon",
+ "subtitle": "Beef chuck in reduced red wine, 24 hours at 68 °C",
+ "tags": [
+  "beef",
+  "sous vide",
+  "french",
+  "stew"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "serves": "4",
+  "prep": "45 min",
+  "cook": "24 h"
+ },
+ "source": "https://recipes.anovaculinary.com/recipe/beef-bourguignon",
+ "photo": null,
+ "photoAlt": "",
+ "intro": "Sous vide keeps tough chuck juicy while the wine, bacon and aromatics soak\nin. The wine has to be reduced on the stove first: in a sealed bag the\nalcohol cannot evaporate, and raw wine gives the meat a harsh, metallic\ntaste.",
+ "ingredientGroups": [
+  {
+   "title": null,
+   "items": [
+    {
+     "markdown": "1.4 kg (3 lb) [beef chuck roast](/ingredients/beef-chuck.md), cut into 5 cm (2 in) chunks",
+     "refs": [
+      {
+       "id": "beef-chuck",
+       "label": "beef chuck roast"
+      }
+     ],
+     "text": "1.4 kg (3 lb) beef chuck roast, cut into 5 cm (2 in) chunks",
+     "quantity": "1.4 kg (3 lb)",
+     "preparation": "cut into 5 cm (2 in) chunks"
+    },
+    {
+     "markdown": "170 g (6 oz) thick-cut [bacon](/ingredients/bacon.md), cut into lardons",
+     "refs": [
+      {
+       "id": "bacon",
+       "label": "bacon"
+      }
+     ],
+     "text": "170 g (6 oz) thick-cut bacon, cut into lardons",
+     "quantity": "170 g (6 oz) thick-cut",
+     "preparation": "cut into lardons"
+    },
+    {
+     "markdown": "1 bottle (750 ml) [dry red wine](/ingredients/red-wine.md), such as Pinot Noir or Burgundy",
+     "refs": [
+      {
+       "id": "red-wine",
+       "label": "dry red wine"
+      }
+     ],
+     "text": "1 bottle (750 ml) dry red wine, such as Pinot Noir or Burgundy",
+     "quantity": "1 bottle (750 ml)",
+     "preparation": "such as Pinot Noir or Burgundy"
+    },
+    {
+     "markdown": "500 ml (2 cups) [beef stock](/ingredients/beef-stock.md)",
+     "refs": [
+      {
+       "id": "beef-stock",
+       "label": "beef stock"
+      }
+     ],
+     "text": "500 ml (2 cups) beef stock",
+     "quantity": "500 ml (2 cups)",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 large [yellow onion](/ingredients/onion.md), diced",
+     "refs": [
+      {
+       "id": "onion",
+       "label": "yellow onion"
+      }
+     ],
+     "text": "1 large yellow onion, diced",
+     "quantity": "1 large",
+     "preparation": "diced"
+    },
+    {
+     "markdown": "2 large [carrots](/ingredients/carrot.md), cut into thick coins",
+     "refs": [
+      {
+       "id": "carrot",
+       "label": "carrots"
+      }
+     ],
+     "text": "2 large carrots, cut into thick coins",
+     "quantity": "2 large",
+     "preparation": "cut into thick coins"
+    },
+    {
+     "markdown": "280 g (10 oz) [cremini mushrooms](/ingredients/cremini-mushroom.md), quartered",
+     "refs": [
+      {
+       "id": "cremini-mushroom",
+       "label": "cremini mushrooms"
+      }
+     ],
+     "text": "280 g (10 oz) cremini mushrooms, quartered",
+     "quantity": "280 g (10 oz)",
+     "preparation": "quartered"
+    },
+    {
+     "markdown": "12–15 [pearl onions](/ingredients/pearl-onion.md), peeled",
+     "refs": [
+      {
+       "id": "pearl-onion",
+       "label": "pearl onions"
+      }
+     ],
+     "text": "12–15 pearl onions, peeled",
+     "quantity": "12–15",
+     "preparation": "peeled"
+    },
+    {
+     "markdown": "2 tbsp [tomato paste](/ingredients/tomato-paste.md)",
+     "refs": [
+      {
+       "id": "tomato-paste",
+       "label": "tomato paste"
+      }
+     ],
+     "text": "2 tbsp tomato paste",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "4 cloves [garlic](/ingredients/garlic.md), minced",
+     "refs": [
+      {
+       "id": "garlic",
+       "label": "garlic"
+      }
+     ],
+     "text": "4 cloves garlic, minced",
+     "quantity": "4 cloves",
+     "preparation": "minced"
+    },
+    {
+     "markdown": "3 sprigs [thyme](/ingredients/thyme.md) and 2 [bay leaves](/ingredients/bay-leaf.md)",
+     "refs": [
+      {
+       "id": "thyme",
+       "label": "thyme"
+      },
+      {
+       "id": "bay-leaf",
+       "label": "bay leaves"
+      }
+     ],
+     "text": "3 sprigs thyme and 2 bay leaves",
+     "quantity": "3 sprigs",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 tbsp [butter](/ingredients/butter.md) mashed with 2 tbsp [flour](/ingredients/plain-flour.md) (beurre manié), plus 2 tbsp butter for the mushrooms",
+     "refs": [
+      {
+       "id": "butter",
+       "label": "butter"
+      },
+      {
+       "id": "plain-flour",
+       "label": "flour"
+      }
+     ],
+     "text": "2 tbsp butter mashed with 2 tbsp flour (beurre manié), plus 2 tbsp butter for the mushrooms",
+     "quantity": "2 tbsp",
+     "preparation": "(beurre manié), plus 2 tbsp butter for the mushrooms"
+    },
+    {
+     "markdown": "[Kosher salt](/ingredients/salt.md) and [black pepper](/ingredients/black-pepper.md)",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "Kosher salt"
+      },
+      {
+       "id": "black-pepper",
+       "label": "black pepper"
+      }
+     ],
+     "text": "Kosher salt and black pepper",
+     "quantity": "",
+     "preparation": ""
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Render the bacon",
+   "markdown": "Cook the lardons in a heavy pan over medium heat until crisp. Lift them into the sous vide bag and keep the fat in the pan."
+  },
+  {
+   "name": "Sear the beef",
+   "markdown": "Pat the beef dry and season well. Over high heat, sear it in batches in the bacon fat, 1–2 minutes a side, until deeply browned. Add it to the bag."
+  },
+  {
+   "name": "Build the base",
+   "markdown": "Lower the heat to medium. Soften the onion and carrots for about 5 minutes, then stir in the garlic and tomato paste for 1 minute. Add everything to the bag."
+  },
+  {
+   "name": "Reduce the wine",
+   "markdown": "Pour the wine and stock into the hot pan, scraping up the browned bits. Boil hard for 10–12 minutes, until reduced by a third and no longer smelling of alcohol."
+  },
+  {
+   "name": "Bag and seal",
+   "markdown": "Let the liquid cool a little, then pour it into the bag with the thyme and bay. Seal on a vacuum sealer's moist setting, or by water displacement in a heavy zipper bag."
+  },
+  {
+   "name": "Cook",
+   "markdown": "Cook at 68 °C (155 °F) for 24 hours, with the bath covered to stop evaporation."
+  },
+  {
+   "name": "Finish the garnish",
+   "markdown": "20 minutes before the end, brown the mushrooms and pearl onions in 2 tbsp butter over medium-high heat."
+  },
+  {
+   "name": "Thicken the sauce",
+   "markdown": "Strain the cooking liquid from the bag into a saucepan and bring it to a simmer. Whisk in the beurre manié a little at a time until the sauce coats a spoon."
+  },
+  {
+   "name": "Serve",
+   "markdown": "Combine the beef and carrots with the sauce, mushrooms and onions. Garnish with thyme. Serve with mashed potatoes, buttered egg noodles or a baguette."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "- 1.4 kg (3 lb) [beef chuck roast](/ingredients/beef-chuck.md), cut into 5 cm (2 in) chunks\n- 170 g (6 oz) thick-cut [bacon](/ingredients/bacon.md), cut into lardons\n- 1 bottle (750 ml) [dry red wine](/ingredients/red-wine.md), such as Pinot Noir or Burgundy\n- 500 ml (2 cups) [beef stock](/ingredients/beef-stock.md)\n- 1 large [yellow onion](/ingredients/onion.md), diced\n- 2 large [carrots](/ingredients/carrot.md), cut into thick coins\n- 280 g (10 oz) [cremini mushrooms](/ingredients/cremini-mushroom.md), quartered\n- 12–15 [pearl onions](/ingredients/pearl-onion.md), peeled\n- 2 tbsp [tomato paste](/ingredients/tomato-paste.md)\n- 4 cloves [garlic](/ingredients/garlic.md), minced\n- 3 sprigs [thyme](/ingredients/thyme.md) and 2 [bay leaves](/ingredients/bay-leaf.md)\n- 2 tbsp [butter](/ingredients/butter.md) mashed with 2 tbsp [flour](/ingredients/plain-flour.md) (beurre manié), plus 2 tbsp butter for the mushrooms\n- [Kosher salt](/ingredients/salt.md) and [black pepper](/ingredients/black-pepper.md)"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Render the bacon.** Cook the lardons in a heavy pan over medium heat until crisp. Lift them into the sous vide bag and keep the fat in the pan.\n2. **Sear the beef.** Pat the beef dry and season well. Over high heat, sear it in batches in the bacon fat, 1–2 minutes a side, until deeply browned. Add it to the bag.\n3. **Build the base.** Lower the heat to medium. Soften the onion and carrots for about 5 minutes, then stir in the garlic and tomato paste for 1 minute. Add everything to the bag.\n4. **Reduce the wine.** Pour the wine and stock into the hot pan, scraping up the browned bits. Boil hard for 10–12 minutes, until reduced by a third and no longer smelling of alcohol.\n5. **Bag and seal.** Let the liquid cool a little, then pour it into the bag with the thyme and bay. Seal on a vacuum sealer's moist setting, or by water displacement in a heavy zipper bag.\n6. **Cook.** Cook at 68 °C (155 °F) for 24 hours, with the bath covered to stop evaporation.\n7. **Finish the garnish.** 20 minutes before the end, brown the mushrooms and pearl onions in 2 tbsp butter over medium-high heat.\n8. **Thicken the sauce.** Strain the cooking liquid from the bag into a saucepan and bring it to a simmer. Whisk in the beurre manié a little at a time until the sauce coats a spoon.\n9. **Serve.** Combine the beef and carrots with the sauce, mushrooms and onions. Garnish with thyme. Serve with mashed potatoes, buttered egg noodles or a baguette."
+  },
+  {
+   "title": "Texture by temperature",
+   "markdown": "| Texture | Temperature | Time | Result |\n| --- | --- | --- | --- |\n| Steak-like | 60 °C | 24–48 h | Pink throughout, slices like steak |\n| Classic | 68 °C | 24 h | Tender, pulls apart with a fork |\n| Fall-apart | 74 °C | 12–18 h | Soft stew texture that still holds its shape |"
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Precision beef bourguignon](https://www.chefsteps.com/recipes/precision-beef-bourguignon) (ChefSteps)\n- [Sous vide beef burgundy](https://www.savoringthegood.com/sous-vide-beef-burgundy/) (Savoring the Good)\n- [Sous vide beef bourguignon](http://lickmyspoon.com/recipes/sous-vide-beef-bourguignon/) (Lick My Spoon)\n- [Braised short ribs with red wine glaze](https://app.ckbk.com/recipe/sous26328c03s001ss001r003/braised-short-ribs-with-red-wine-glaze) (ckbk)"
+  }
+ ]
+}
