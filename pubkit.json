@@ -4,5 +4,5 @@
   "security": {
     "dependabot": {"schedule": "daily", "ecosystems": ["github-actions"]}
   },
-  "protect": {"checks": ["ci / passed", "build"], "tags": false}
+  "protect": {"checks": ["ci / passed", "build", "integrations / scan"], "tags": false}
 }
