@@ -1,0 +1,26 @@
+{
+  "uses": [
+    {
+      "plugin": "bitwarden.secrets",
+      "paths": [
+        "with-secrets",
+        "with-secrets.json"
+      ]
+    },
+    {
+      "plugin": "cloudflare.pages",
+      "paths": [
+        ".github/workflows/recipes.yml"
+      ]
+    }
+  ],
+  "own_hosts": [
+    "schryer.eu"
+  ],
+  "other_secrets": [
+    {
+      "name": "RECIPES_DEPLOY_KEY",
+      "reason": "An SSH key to our own server"
+    }
+  ]
+}
