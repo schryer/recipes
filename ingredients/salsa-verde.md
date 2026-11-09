@@ -1,6 +1,7 @@
 ---
 name: Salsa verde
-aliases: [green salsa, tomatillo salsa]
+aliases: [green salsa]
 ---
 
-The charred tomatillo and chilli salsa made by the [Salsa verde](/recipes/sauces/salsa-verde.md) recipe.
+The charred tomatillo salsa made by the
+[Salsa verde](/recipes/sauces/salsa-verde.md) recipe.
