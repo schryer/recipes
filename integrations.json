@@ -3,7 +3,6 @@
     {
       "plugin": "bitwarden.secrets",
       "paths": [
-        "with-secrets",
         "with-secrets.json"
       ],
       "mode": "required"
@@ -12,6 +11,14 @@
       "plugin": "cloudflare.pages",
       "paths": [
         ".github/workflows/recipes.yml"
+      ],
+      "mode": "required"
+    },
+    {
+      "plugin": "sonarcloud.scan",
+      "paths": [
+        ".github/workflows/main.yml",
+        ".github/workflows/pr.yml"
       ],
       "mode": "required"
     }

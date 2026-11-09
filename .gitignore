@@ -1,2 +1,5 @@
 _site/
 node_modules/
+
+# Local secrets, such as the Bitwarden token ./with-secrets reads: never committed.
+.env
