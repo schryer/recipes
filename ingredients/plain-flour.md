@@ -1,4 +1,4 @@
 ---
 name: Plain flour
-aliases: [all-purpose flour, flour]
+aliases: [all-purpose flour, flour, maida]
 ---
