@@ -42,7 +42,7 @@ them cool before mixing, or the filling turns wet and the wrappers tear.
 - 60 ml (¼ cup) [neutral oil](/ingredients/neutral-oil.md) (canola, grapeseed, vegetable)
 - 1 large [shallot](/ingredients/shallot.md) (about 85 g / 3 oz), finely chopped
 - 120 ml (½ cup) [dry white wine](/ingredients/white-wine.md)
-- 2 tbsp [chives](/ingredients/chives.md), thinly sliced
+- 2 tbsp [chives](/ingredients/chive.md), thinly sliced
 
 ### For wrapping
 
