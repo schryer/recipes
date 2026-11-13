@@ -1,0 +1,172 @@
+{
+ "slug": "carnitas",
+ "category": "mains",
+ "path": "recipes/mains/carnitas.md",
+ "title": "Oven carnitas",
+ "subtitle": "Roy Choi’s whole pork shoulder, slow-roasted in its own fat for 5–6 hours",
+ "tags": [
+  "pork",
+  "mexican",
+  "slow-roast",
+  "dinner"
+ ],
+ "date": "2026-11-09",
+ "facts": {
+  "serves": "8",
+  "prep": "15 min",
+  "cook": "6 h",
+  "rest": "20 min"
+ },
+ "source": "https://www.masterclass.com/classes/roy-choi-teaches-intuitive-cooking/chapters/large-format-carnitas-with-pork-fat-cilantro-rice",
+ "photo": null,
+ "photoAlt": "",
+ "intro": "A whole shoulder, salted hard and sealed tightly in a pot, cooks very low\nuntil it collapses under a spoon and sits in a pool of its own rendered\nfat. Keep that fat: it goes into the [pork fat cilantro\nrice](../sides/pork-fat-cilantro-rice.md) served underneath.",
+ "ingredientGroups": [
+  {
+   "title": null,
+   "items": [
+    {
+     "markdown": "1 boneless [pork shoulder](/ingredients/pork-shoulder.md), about 2.3 kg (5 lb)",
+     "refs": [
+      {
+       "id": "pork-shoulder",
+       "label": "pork shoulder"
+      }
+     ],
+     "text": "1 boneless pork shoulder, about 2.3 kg (5 lb)",
+     "quantity": "1 boneless",
+     "preparation": "about 2.3 kg (5 lb)"
+    },
+    {
+     "markdown": "3 tbsp [kosher salt or coarse sea salt](/ingredients/salt.md)",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "kosher salt or coarse sea salt"
+      }
+     ],
+     "text": "3 tbsp kosher salt or coarse sea salt",
+     "quantity": "3 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "1½ tbsp freshly ground [black pepper](/ingredients/black-pepper.md)",
+     "refs": [
+      {
+       "id": "black-pepper",
+       "label": "black pepper"
+      }
+     ],
+     "text": "1½ tbsp freshly ground black pepper",
+     "quantity": "1½ tbsp freshly ground",
+     "preparation": ""
+    },
+    {
+     "markdown": "4 [garlic cloves](/ingredients/garlic.md), peeled",
+     "refs": [
+      {
+       "id": "garlic",
+       "label": "garlic cloves"
+      }
+     ],
+     "text": "4 garlic cloves, peeled",
+     "quantity": "4",
+     "preparation": "peeled"
+    },
+    {
+     "markdown": "60 ml (¼ cup) [neutral oil](/ingredients/neutral-oil.md), such as canola or grapeseed",
+     "refs": [
+      {
+       "id": "neutral-oil",
+       "label": "neutral oil"
+      }
+     ],
+     "text": "60 ml (¼ cup) neutral oil, such as canola or grapeseed",
+     "quantity": "60 ml (¼ cup)",
+     "preparation": "such as canola or grapeseed"
+    }
+   ]
+  },
+  {
+   "title": "For serving",
+   "items": [
+    {
+     "markdown": "1 batch [salsa verde](/ingredients/salsa-verde.md) ([recipe](../sauces/salsa-verde.md))",
+     "refs": [
+      {
+       "id": "salsa-verde",
+       "label": "salsa verde"
+      }
+     ],
+     "text": "1 batch salsa verde (recipe)",
+     "quantity": "1 batch",
+     "preparation": "(recipe)"
+    },
+    {
+     "markdown": "3 red [radishes](/ingredients/radish.md), trimmed and quartered",
+     "refs": [
+      {
+       "id": "radish",
+       "label": "radishes"
+      }
+     ],
+     "text": "3 red radishes, trimmed and quartered",
+     "quantity": "3 red",
+     "preparation": "trimmed and quartered"
+    },
+    {
+     "markdown": "4 [lime](/ingredients/lime.md) wedges",
+     "refs": [
+      {
+       "id": "lime",
+       "label": "lime"
+      }
+     ],
+     "text": "4 lime wedges",
+     "quantity": "4",
+     "preparation": "wedges"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Make the salsa verde",
+   "markdown": "Make the [salsa verde](../sauces/salsa-verde.md) and set it aside."
+  },
+  {
+   "name": "Season the pork",
+   "markdown": "Heat the oven to 110 °C (225 °F). Sprinkle the shoulder generously with the salt and pepper on all sides, working it into the nooks and crannies. Stuff the garlic cloves into the crevices, then drizzle the oil evenly over the meat."
+  },
+  {
+   "name": "Roast low and slow",
+   "markdown": "Put the shoulder in a Dutch oven or pot with a tight-fitting lid (or seal the pot with foil) and cover it tightly. Roast undisturbed for 5–6 hours, until the meat collapses easily under the weight of a spoon and a good amount of fat has rendered into the bottom of the pot. Make the [rice](../sides/pork-fat-cilantro-rice.md) while it roasts."
+  },
+  {
+   "name": "Rest",
+   "markdown": "Take the pot out of the oven and let it stand, still covered, for 20 minutes before you open it. Spoon off 250 ml (1 cup) of the rendered fat for the rice."
+  },
+  {
+   "name": "Plate",
+   "markdown": "Spread the rice over a large platter and top it with large chunks of carnitas, breaking the meat apart with a fork if needed. Spoon the remaining cilantro sauce from the rice around the edges and drizzle the salsa verde over that. Scatter over the reserved chopped cilantro and parsley, garnish with the radishes and lime wedges, and eat straight away."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "- 1 boneless [pork shoulder](/ingredients/pork-shoulder.md), about 2.3 kg (5 lb)\n- 3 tbsp [kosher salt or coarse sea salt](/ingredients/salt.md)\n- 1½ tbsp freshly ground [black pepper](/ingredients/black-pepper.md)\n- 4 [garlic cloves](/ingredients/garlic.md), peeled\n- 60 ml (¼ cup) [neutral oil](/ingredients/neutral-oil.md), such as canola or grapeseed\n\n### For serving\n\n- 1 batch [salsa verde](/ingredients/salsa-verde.md) ([recipe](../sauces/salsa-verde.md))\n- 3 red [radishes](/ingredients/radish.md), trimmed and quartered\n- 4 [lime](/ingredients/lime.md) wedges"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Make the salsa verde.** Make the [salsa verde](../sauces/salsa-verde.md) and set it aside.\n2. **Season the pork.** Heat the oven to 110 °C (225 °F). Sprinkle the shoulder generously with the salt and pepper on all sides, working it into the nooks and crannies. Stuff the garlic cloves into the crevices, then drizzle the oil evenly over the meat.\n3. **Roast low and slow.** Put the shoulder in a Dutch oven or pot with a tight-fitting lid (or seal the pot with foil) and cover it tightly. Roast undisturbed for 5–6 hours, until the meat collapses easily under the weight of a spoon and a good amount of fat has rendered into the bottom of the pot. Make the [rice](../sides/pork-fat-cilantro-rice.md) while it roasts.\n4. **Rest.** Take the pot out of the oven and let it stand, still covered, for 20 minutes before you open it. Spoon off 250 ml (1 cup) of the rendered fat for the rice.\n5. **Plate.** Spread the rice over a large platter and top it with large chunks of carnitas, breaking the meat apart with a fork if needed. Spoon the remaining cilantro sauce from the rice around the edges and drizzle the salsa verde over that. Scatter over the reserved chopped cilantro and parsley, garnish with the radishes and lime wedges, and eat straight away."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- Leftover pork and rice make burritos with the salsa verde, as in the bonus lesson of the same class.\n- The cooled pork keeps for 3–4 days in the fridge, covered with some of its fat."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Pork fat cilantro rice](../sides/pork-fat-cilantro-rice.md), the rice this is served on\n- [Dutch oven pork carnitas](https://madeincookware.com/recipes/dutch-oven-pork-carnitas) (Made In), braised with citrus and spices, then crisped at the end\n- [Salsa verde rice with carnitas](https://shop.woodlandfoods.com/recipes/salsa-verde-rice-with-carnitas) (Woodland Foods), the same pairing with the salsa stirred into the rice\n- [Carnitas and pork fat cilantro rice burrito](https://www.masterclass.com/classes/roy-choi-teaches-intuitive-cooking/chapters/bonus-carnitas-and-pork-fat-cilantro-rice-burrito) (MasterClass), Roy Choi’s leftovers burrito"
+  }
+ ]
+}

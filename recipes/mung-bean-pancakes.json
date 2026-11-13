@@ -1,0 +1,221 @@
+{
+ "slug": "mung-bean-pancakes",
+ "category": "mains",
+ "path": "recipes/mains/mung-bean-pancakes.md",
+ "title": "Mung bean pancakes",
+ "subtitle": "Crisp pancakes of blended mung beans and grated potato, with scallion dipping sauce",
+ "tags": [
+  "mung bean",
+  "potato",
+  "korean",
+  "pancake",
+  "lunch"
+ ],
+ "date": "2026-11-09",
+ "facts": {
+  "serves": "4",
+  "prep": "20 min",
+  "cook": "30 min",
+  "rest": "overnight"
+ },
+ "source": null,
+ "photo": null,
+ "photoAlt": "",
+ "intro": "A blender batter of soaked mung beans, lightened with tempura flour and\nbulked out with grated potato. Fry a small test pancake first and season\nthe batter from it, and keep the oil hot enough that the pancakes sizzle\nthe moment they go in.",
+ "ingredientGroups": [
+  {
+   "title": "For the batter",
+   "items": [
+    {
+     "markdown": "100 g (½ cup) split yellow [mung beans](/ingredients/mung-bean.md), soaked overnight in 350 ml (1½ cups) water, soaking water kept",
+     "refs": [
+      {
+       "id": "mung-bean",
+       "label": "mung beans"
+      }
+     ],
+     "text": "100 g (½ cup) split yellow mung beans, soaked overnight in 350 ml (1½ cups) water, soaking water kept",
+     "quantity": "100 g (½ cup) split yellow",
+     "preparation": "soaked overnight in 350 ml (1½ cups) water, soaking water kept"
+    },
+    {
+     "markdown": "25 g (½ cup) [chives](/ingredients/chive.md), thinly sliced",
+     "refs": [
+      {
+       "id": "chive",
+       "label": "chives"
+      }
+     ],
+     "text": "25 g (½ cup) chives, thinly sliced",
+     "quantity": "25 g (½ cup)",
+     "preparation": "thinly sliced"
+    },
+    {
+     "markdown": "120 g (1 cup) [tempura flour mix](/ingredients/tempura-flour.md) or [self-raising flour](/ingredients/self-raising-flour.md)",
+     "refs": [
+      {
+       "id": "tempura-flour",
+       "label": "tempura flour mix"
+      },
+      {
+       "id": "self-raising-flour",
+       "label": "self-raising flour"
+      }
+     ],
+     "text": "120 g (1 cup) tempura flour mix or self-raising flour",
+     "quantity": "120 g (1 cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 tsp [kosher salt](/ingredients/salt.md) or coarse sea salt, plus more to taste",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "kosher salt"
+      }
+     ],
+     "text": "1 tsp kosher salt or coarse sea salt, plus more to taste",
+     "quantity": "1 tsp",
+     "preparation": "or coarse sea salt, plus more to taste"
+    },
+    {
+     "markdown": "½ white [onion](/ingredients/onion.md), roughly chopped",
+     "refs": [
+      {
+       "id": "onion",
+       "label": "onion"
+      }
+     ],
+     "text": "½ white onion, roughly chopped",
+     "quantity": "½ white",
+     "preparation": "roughly chopped"
+    },
+    {
+     "markdown": "60 ml (¼ cup) [water](/ingredients/water.md)",
+     "refs": [
+      {
+       "id": "water",
+       "label": "water"
+      }
+     ],
+     "text": "60 ml (¼ cup) water",
+     "quantity": "60 ml (¼ cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 large russet [potato](/ingredients/potato.md), peeled and kept in cold water until grated",
+     "refs": [
+      {
+       "id": "potato",
+       "label": "potato"
+      }
+     ],
+     "text": "1 large russet potato, peeled and kept in cold water until grated",
+     "quantity": "1 large russet",
+     "preparation": "peeled and kept in cold water until grated"
+    },
+    {
+     "markdown": "2 [scallions](/ingredients/scallion.md), thinly sliced",
+     "refs": [
+      {
+       "id": "scallion",
+       "label": "scallions"
+      }
+     ],
+     "text": "2 scallions, thinly sliced",
+     "quantity": "2",
+     "preparation": "thinly sliced"
+    },
+    {
+     "markdown": "[Black pepper](/ingredients/black-pepper.md), freshly ground, to taste",
+     "refs": [
+      {
+       "id": "black-pepper",
+       "label": "Black pepper"
+      }
+     ],
+     "text": "Black pepper, freshly ground, to taste",
+     "quantity": "",
+     "preparation": "freshly ground, to taste"
+    }
+   ]
+  },
+  {
+   "title": "To cook and serve",
+   "items": [
+    {
+     "markdown": "[Neutral oil](/ingredients/neutral-oil.md) (canola, grapeseed, vegetable), to coat the pan",
+     "refs": [
+      {
+       "id": "neutral-oil",
+       "label": "Neutral oil"
+      }
+     ],
+     "text": "Neutral oil (canola, grapeseed, vegetable), to coat the pan",
+     "quantity": "",
+     "preparation": "(canola, grapeseed, vegetable), to coat the pan"
+    },
+    {
+     "markdown": "[Scallion dipping sauce](/ingredients/scallion-dipping-sauce.md) ([recipe](../sauces/scallion-dipping-sauce.md))",
+     "refs": [
+      {
+       "id": "scallion-dipping-sauce",
+       "label": "Scallion dipping sauce"
+      }
+     ],
+     "text": "Scallion dipping sauce (recipe)",
+     "quantity": "",
+     "preparation": "(recipe)"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Make the sauce",
+   "markdown": "Make the scallion dipping sauce and set it aside."
+  },
+  {
+   "name": "Blend the batter",
+   "markdown": "Put the soaked mung beans and their soaking water, the chives, flour, salt, onion and water in a clean blender. Blend on high until a smooth batter forms, about 5 seconds."
+  },
+  {
+   "name": "Add the potato",
+   "markdown": "Finely grate the potato into a large bowl and add the scallions. Pour in the batter and stir until everything is combined."
+  },
+  {
+   "name": "Fry a test pancake",
+   "markdown": "Heat a large skillet or nonstick griddle over medium heat and add enough oil to coat it evenly, a few large spoonfuls. When the oil shimmers, add a small dollop of batter and fry it until browned on both sides. Taste it, then season the batter with more salt and pepper as needed."
+  },
+  {
+   "name": "Fry the pancakes",
+   "markdown": "Pour in about 80 ml (⅓ cup) of batter per pancake, as many as fit; they should sizzle at once. Cook for a few minutes, until tiny bubbles appear around the edges, then flip and cook 1 to 2 minutes more, until crisp and golden brown on both sides."
+  },
+  {
+   "name": "Drain and repeat",
+   "markdown": "Move the pancakes to a plate or tray lined with paper towels. Fry the rest of the batter the same way, adding oil as needed and turning the heat up or down if they cook too slowly or too quickly."
+  },
+  {
+   "name": "Serve",
+   "markdown": "Eat them at once, with the scallion dipping sauce on the side."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "### For the batter\n\n- 100 g (½ cup) split yellow [mung beans](/ingredients/mung-bean.md), soaked overnight in 350 ml (1½ cups) water, soaking water kept\n- 25 g (½ cup) [chives](/ingredients/chive.md), thinly sliced\n- 120 g (1 cup) [tempura flour mix](/ingredients/tempura-flour.md) or [self-raising flour](/ingredients/self-raising-flour.md)\n- 1 tsp [kosher salt](/ingredients/salt.md) or coarse sea salt, plus more to taste\n- ½ white [onion](/ingredients/onion.md), roughly chopped\n- 60 ml (¼ cup) [water](/ingredients/water.md)\n- 1 large russet [potato](/ingredients/potato.md), peeled and kept in cold water until grated\n- 2 [scallions](/ingredients/scallion.md), thinly sliced\n- [Black pepper](/ingredients/black-pepper.md), freshly ground, to taste\n\n### To cook and serve\n\n- [Neutral oil](/ingredients/neutral-oil.md) (canola, grapeseed, vegetable), to coat the pan\n- [Scallion dipping sauce](/ingredients/scallion-dipping-sauce.md) ([recipe](../sauces/scallion-dipping-sauce.md))"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Make the sauce.** Make the scallion dipping sauce and set it aside.\n2. **Blend the batter.** Put the soaked mung beans and their soaking water, the chives, flour, salt, onion and water in a clean blender. Blend on high until a smooth batter forms, about 5 seconds.\n3. **Add the potato.** Finely grate the potato into a large bowl and add the scallions. Pour in the batter and stir until everything is combined.\n4. **Fry a test pancake.** Heat a large skillet or nonstick griddle over medium heat and add enough oil to coat it evenly, a few large spoonfuls. When the oil shimmers, add a small dollop of batter and fry it until browned on both sides. Taste it, then season the batter with more salt and pepper as needed.\n5. **Fry the pancakes.** Pour in about 80 ml (⅓ cup) of batter per pancake, as many as fit; they should sizzle at once. Cook for a few minutes, until tiny bubbles appear around the edges, then flip and cook 1 to 2 minutes more, until crisp and golden brown on both sides.\n6. **Drain and repeat.** Move the pancakes to a plate or tray lined with paper towels. Fry the rest of the batter the same way, adding oil as needed and turning the heat up or down if they cook too slowly or too quickly.\n7. **Serve.** Eat them at once, with the scallion dipping sauce on the side."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- Grate the potato just before it goes in the batter: kept in cold water it stays white and crisp, but grated it browns quickly.\n- Gram weights are converted from the note's cup measures."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Bindaetteok](https://www.maangchi.com/recipe/bindaetteok) (Maangchi), the classic Korean mung bean pancake, with pork and kimchi and no flour\n- [Gamjajeon](https://www.maangchi.com/recipe/gamjajeon) (Maangchi), Korean potato pancakes of grated potato alone\n- [Pajeon](https://www.saveur.com/pajeon-korean-scallion-pancakes-recipe) (Saveur), a wheat flour batter full of whole scallions"
+  }
+ ]
+}

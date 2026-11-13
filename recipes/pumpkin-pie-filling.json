@@ -1,0 +1,209 @@
+{
+ "slug": "pumpkin-pie-filling",
+ "category": "desserts",
+ "path": "recipes/desserts/pumpkin-pie-filling.md",
+ "title": "Roasted pumpkin pie filling",
+ "subtitle": "A brown sugar custard for one deep pie, made with your own roasted pumpkin",
+ "tags": [
+  "pumpkin",
+  "pie",
+  "custard",
+  "dessert",
+  "baking"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "serves": "8–10",
+  "makes": "one 23 cm (9 in) deep-dish pie",
+  "prep": "15 min",
+  "cook": "1 h",
+  "rest": "3 h"
+ },
+ "source": "https://www.cucinabyelena.com/fresh-roasted-pumpkin-pie/",
+ "photo": null,
+ "photoAlt": "",
+ "intro": "Roasting the pumpkin yourself caramelises its sugars for a deeper flavour\nthan canned purée. Fresh purée is wetter than canned, so drain it if it\nlooks loose, and take the pie out while the centre still jiggles.",
+ "ingredientGroups": [
+  {
+   "title": null,
+   "items": [
+    {
+     "markdown": "3 large [eggs](/ingredients/egg.md), at room temperature",
+     "refs": [
+      {
+       "id": "egg",
+       "label": "eggs"
+      }
+     ],
+     "text": "3 large eggs, at room temperature",
+     "quantity": "3 large",
+     "preparation": "at room temperature"
+    },
+    {
+     "markdown": "165 g (¾ cup) [packed brown sugar](/ingredients/brown-sugar.md)",
+     "refs": [
+      {
+       "id": "brown-sugar",
+       "label": "packed brown sugar"
+      }
+     ],
+     "text": "165 g (¾ cup) packed brown sugar",
+     "quantity": "165 g (¾ cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "450 g (2 cups) [roasted pumpkin purée](/ingredients/pumpkin-puree.md), drained if watery",
+     "refs": [
+      {
+       "id": "pumpkin-puree",
+       "label": "roasted pumpkin purée"
+      }
+     ],
+     "text": "450 g (2 cups) roasted pumpkin purée, drained if watery",
+     "quantity": "450 g (2 cups)",
+     "preparation": "drained if watery"
+    },
+    {
+     "markdown": "1 tbsp [pumpkin pie spice](/ingredients/pumpkin-pie-spice.md), or 1 tsp [cinnamon](/ingredients/cinnamon.md), ½ tsp [ginger](/ingredients/ground-ginger.md), ¼ tsp [nutmeg](/ingredients/nutmeg.md) and ¼ tsp [cloves](/ingredients/cloves.md)",
+     "refs": [
+      {
+       "id": "pumpkin-pie-spice",
+       "label": "pumpkin pie spice"
+      },
+      {
+       "id": "cinnamon",
+       "label": "cinnamon"
+      },
+      {
+       "id": "ground-ginger",
+       "label": "ginger"
+      },
+      {
+       "id": "nutmeg",
+       "label": "nutmeg"
+      },
+      {
+       "id": "cloves",
+       "label": "cloves"
+      }
+     ],
+     "text": "1 tbsp pumpkin pie spice, or 1 tsp cinnamon, ½ tsp ginger, ¼ tsp nutmeg and ¼ tsp cloves",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 tsp [vanilla extract](/ingredients/vanilla-extract.md)",
+     "refs": [
+      {
+       "id": "vanilla-extract",
+       "label": "vanilla extract"
+      }
+     ],
+     "text": "1 tsp vanilla extract",
+     "quantity": "1 tsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "¼ tsp [kosher salt](/ingredients/salt.md)",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "kosher salt"
+      }
+     ],
+     "text": "¼ tsp kosher salt",
+     "quantity": "¼ tsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 tbsp [plain flour](/ingredients/plain-flour.md) (optional; it helps set the wetter fresh purée)",
+     "refs": [
+      {
+       "id": "plain-flour",
+       "label": "plain flour"
+      }
+     ],
+     "text": "1 tbsp plain flour (optional; it helps set the wetter fresh purée)",
+     "quantity": "1 tbsp",
+     "preparation": "(optional; it helps set the wetter fresh purée)"
+    },
+    {
+     "markdown": "250 ml (1 cup) [heavy cream](/ingredients/heavy-cream.md), or [half-and-half](/ingredients/half-and-half.md) for a lighter custard",
+     "refs": [
+      {
+       "id": "heavy-cream",
+       "label": "heavy cream"
+      },
+      {
+       "id": "half-and-half",
+       "label": "half-and-half"
+      }
+     ],
+     "text": "250 ml (1 cup) heavy cream, or half-and-half for a lighter custard",
+     "quantity": "250 ml (1 cup)",
+     "preparation": "for a lighter custard"
+    },
+    {
+     "markdown": "1 unbaked or blind-baked 23 cm (9 in) deep-dish [pie shell](/ingredients/pie-shell.md)",
+     "refs": [
+      {
+       "id": "pie-shell",
+       "label": "pie shell"
+      }
+     ],
+     "text": "1 unbaked or blind-baked 23 cm (9 in) deep-dish pie shell",
+     "quantity": "1 unbaked or blind-baked 23 cm (9 in) deep-dish",
+     "preparation": ""
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Heat the oven",
+   "markdown": "Heat the oven to 200 °C (400 °F)."
+  },
+  {
+   "name": "Whisk the base",
+   "markdown": "Whisk the eggs and brown sugar in a large bowl until smooth and slightly pale."
+  },
+  {
+   "name": "Add the purée",
+   "markdown": "Whisk in the pumpkin purée, spice, vanilla, salt and the flour, if using, until evenly mixed."
+  },
+  {
+   "name": "Add the cream",
+   "markdown": "Pour in the cream slowly, whisking gently, until you have a smooth, pourable custard."
+  },
+  {
+   "name": "Bake hot",
+   "markdown": "Pour the custard into the pie shell and bake for 15 minutes to set the edges of the crust."
+  },
+  {
+   "name": "Finish lower",
+   "markdown": "Without opening the door, turn the oven down to 175 °C (350 °F) and bake for another 40–45 minutes, until the edges are set and only the very centre still jiggles."
+  },
+  {
+   "name": "Cool",
+   "markdown": "Cool on a rack at room temperature for 2–3 hours, as the custard finishes setting while it cools. Refrigerate until serving."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "- 3 large [eggs](/ingredients/egg.md), at room temperature\n- 165 g (¾ cup) [packed brown sugar](/ingredients/brown-sugar.md)\n- 450 g (2 cups) [roasted pumpkin purée](/ingredients/pumpkin-puree.md), drained if watery\n- 1 tbsp [pumpkin pie spice](/ingredients/pumpkin-pie-spice.md), or 1 tsp [cinnamon](/ingredients/cinnamon.md), ½ tsp [ginger](/ingredients/ground-ginger.md), ¼ tsp [nutmeg](/ingredients/nutmeg.md) and ¼ tsp [cloves](/ingredients/cloves.md)\n- 1 tsp [vanilla extract](/ingredients/vanilla-extract.md)\n- ¼ tsp [kosher salt](/ingredients/salt.md)\n- 1 tbsp [plain flour](/ingredients/plain-flour.md) (optional; it helps set the wetter fresh purée)\n- 250 ml (1 cup) [heavy cream](/ingredients/heavy-cream.md), or [half-and-half](/ingredients/half-and-half.md) for a lighter custard\n- 1 unbaked or blind-baked 23 cm (9 in) deep-dish [pie shell](/ingredients/pie-shell.md)"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Heat the oven.** Heat the oven to 200 °C (400 °F).\n2. **Whisk the base.** Whisk the eggs and brown sugar in a large bowl until smooth and slightly pale.\n3. **Add the purée.** Whisk in the pumpkin purée, spice, vanilla, salt and the flour, if using, until evenly mixed.\n4. **Add the cream.** Pour in the cream slowly, whisking gently, until you have a smooth, pourable custard.\n5. **Bake hot.** Pour the custard into the pie shell and bake for 15 minutes to set the edges of the crust.\n6. **Finish lower.** Without opening the door, turn the oven down to 175 °C (350 °F) and bake for another 40–45 minutes, until the edges are set and only the very centre still jiggles.\n7. **Cool.** Cool on a rack at room temperature for 2–3 hours, as the custard finishes setting while it cools. Refrigerate until serving."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- **Roasting the pumpkin.** Halve a sugar pumpkin, scoop out the seeds and roast it cut side down on a lined tray at 200 °C (400 °F) for 45–60 minutes, until a knife slides in easily. Scoop out the flesh.\n- **Drain it.** If the purée looks loose, drain it in a sieve lined with cheesecloth or a clean tea towel for 30 minutes before measuring.\n- **Make it smooth.** Blend the roasted flesh in a food processor or blender for a full minute, to get the silky texture of canned purée."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Pumpkin pie from fresh pumpkin](https://ourzestylife.com/pumpkin-pie-from-fresh-pumpkin/) (Our Zesty Life)\n- [Perfect pumpkin pie](https://www.rockrecipes.com/perfect-pumpkin-pie/) (Rock Recipes), with canned purée and evaporated milk\n- [Roast pumpkin pie](https://boroughmarket.org.uk/recipes/roast-pumpkin-pie/) (Borough Market), a British take\n- [Real pumpkin pie from scratch](https://www.food.com/recipe/real-pumpkin-pie-from-scratch-easy-490668) (Food.com)"
+  }
+ ]
+}

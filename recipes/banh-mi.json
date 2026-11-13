@@ -1,0 +1,274 @@
+{
+ "slug": "banh-mi",
+ "category": "mains",
+ "path": "recipes/mains/banh-mi.md",
+ "title": "Bánh mì",
+ "subtitle": "Toasted baguette with pâté, pork and quick-pickled carrot and daikon",
+ "tags": [
+  "pork",
+  "vietnamese",
+  "sandwich",
+  "pickles",
+  "lunch"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "serves": "2",
+  "prep": "20 min",
+  "cook": "10 min",
+  "rest": "30 min"
+ },
+ "source": null,
+ "photo": null,
+ "photoAlt": "",
+ "intro": "> [!NOTE]\n> **Draft quantities for David to check.** The vault note names the\n> ingredients and steps but no amounts, so the quantities and timings are\n> worked out and haven’t been tested.\n\nThe quick pickle is what makes it: crisp, sweet and sour against the rich\npâté and pork. Make it first so it has half an hour to work.",
+ "ingredientGroups": [
+  {
+   "title": "For the pickle",
+   "items": [
+    {
+     "markdown": "1 [carrot](/ingredients/carrot.md), cut into matchsticks",
+     "refs": [
+      {
+       "id": "carrot",
+       "label": "carrot"
+      }
+     ],
+     "text": "1 carrot, cut into matchsticks",
+     "quantity": "1",
+     "preparation": "cut into matchsticks"
+    },
+    {
+     "markdown": "150 g [daikon](/ingredients/daikon.md), cut into matchsticks",
+     "refs": [
+      {
+       "id": "daikon",
+       "label": "daikon"
+      }
+     ],
+     "text": "150 g daikon, cut into matchsticks",
+     "quantity": "150 g",
+     "preparation": "cut into matchsticks"
+    },
+    {
+     "markdown": "125 ml (½ cup) [rice vinegar](/ingredients/rice-vinegar.md)",
+     "refs": [
+      {
+       "id": "rice-vinegar",
+       "label": "rice vinegar"
+      }
+     ],
+     "text": "125 ml (½ cup) rice vinegar",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "125 ml (½ cup) [warm water](/ingredients/water.md)",
+     "refs": [
+      {
+       "id": "water",
+       "label": "warm water"
+      }
+     ],
+     "text": "125 ml (½ cup) warm water",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 tbsp [sugar](/ingredients/sugar.md)",
+     "refs": [
+      {
+       "id": "sugar",
+       "label": "sugar"
+      }
+     ],
+     "text": "2 tbsp sugar",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "½ tsp [salt](/ingredients/salt.md)",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "salt"
+      }
+     ],
+     "text": "½ tsp salt",
+     "quantity": "½ tsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "title": "For the pork",
+   "items": [
+    {
+     "markdown": "250 g [pork shoulder](/ingredients/pork-shoulder.md) or [loin](/ingredients/pork-loin.md), thinly sliced, or 200 g [firm tofu](/ingredients/tofu.md), sliced",
+     "refs": [
+      {
+       "id": "pork-shoulder",
+       "label": "pork shoulder"
+      },
+      {
+       "id": "pork-loin",
+       "label": "loin"
+      },
+      {
+       "id": "tofu",
+       "label": "firm tofu"
+      }
+     ],
+     "text": "250 g pork shoulder or loin, thinly sliced, or 200 g firm tofu, sliced",
+     "quantity": "250 g",
+     "preparation": "sliced"
+    },
+    {
+     "markdown": "1 tbsp [fish sauce](/ingredients/fish-sauce.md) ([soy sauce](/ingredients/soy-sauce.md) for tofu)",
+     "refs": [
+      {
+       "id": "fish-sauce",
+       "label": "fish sauce"
+      },
+      {
+       "id": "soy-sauce",
+       "label": "soy sauce"
+      }
+     ],
+     "text": "1 tbsp fish sauce (soy sauce for tofu)",
+     "quantity": "1 tbsp",
+     "preparation": "for tofu)"
+    },
+    {
+     "markdown": "1 tsp [sugar](/ingredients/sugar.md)",
+     "refs": [
+      {
+       "id": "sugar",
+       "label": "sugar"
+      }
+     ],
+     "text": "1 tsp sugar",
+     "quantity": "1 tsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 tbsp [neutral oil](/ingredients/neutral-oil.md)",
+     "refs": [
+      {
+       "id": "neutral-oil",
+       "label": "neutral oil"
+      }
+     ],
+     "text": "1 tbsp neutral oil",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "title": "For the sandwiches",
+   "items": [
+    {
+     "markdown": "1 crisp [baguette](/ingredients/baguette.md), cut into two lengths",
+     "refs": [
+      {
+       "id": "baguette",
+       "label": "baguette"
+      }
+     ],
+     "text": "1 crisp baguette, cut into two lengths",
+     "quantity": "1 crisp",
+     "preparation": "cut into two lengths"
+    },
+    {
+     "markdown": "2 tbsp [mayonnaise](/ingredients/mayonnaise.md)",
+     "refs": [
+      {
+       "id": "mayonnaise",
+       "label": "mayonnaise"
+      }
+     ],
+     "text": "2 tbsp mayonnaise",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "60 g [pâté](/ingredients/pate.md)",
+     "refs": [
+      {
+       "id": "pate",
+       "label": "pâté"
+      }
+     ],
+     "text": "60 g pâté",
+     "quantity": "60 g",
+     "preparation": ""
+    },
+    {
+     "markdown": "½ [cucumber](/ingredients/cucumber.md), sliced lengthways",
+     "refs": [
+      {
+       "id": "cucumber",
+       "label": "cucumber"
+      }
+     ],
+     "text": "½ cucumber, sliced lengthways",
+     "quantity": "½",
+     "preparation": "sliced lengthways"
+    },
+    {
+     "markdown": "A handful of [coriander](/ingredients/coriander.md) sprigs, with stalks",
+     "refs": [
+      {
+       "id": "coriander",
+       "label": "coriander"
+      }
+     ],
+     "text": "A handful of coriander sprigs, with stalks",
+     "quantity": "A handful of",
+     "preparation": "sprigs, with stalks"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Pickle the vegetables",
+   "markdown": "Stir the vinegar, water, sugar and salt until dissolved. Add the carrot and daikon and leave for at least 30 minutes."
+  },
+  {
+   "name": "Cook the pork",
+   "markdown": "Toss the pork with the fish sauce and sugar. Fry it in the oil over high heat for 2–3 minutes a side, until browned and cooked through."
+  },
+  {
+   "name": "Toast the bread",
+   "markdown": "Split each length of baguette along one side and warm it in a hot oven for 3–4 minutes, until the crust crackles."
+  },
+  {
+   "name": "Spread",
+   "markdown": "Spread mayonnaise on one cut side and pâté on the other."
+  },
+  {
+   "name": "Fill",
+   "markdown": "Lay in the warm pork, the cucumber, a generous heap of drained pickles and the coriander. Eat straight away."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "### For the pickle\n\n- 1 [carrot](/ingredients/carrot.md), cut into matchsticks\n- 150 g [daikon](/ingredients/daikon.md), cut into matchsticks\n- 125 ml (½ cup) [rice vinegar](/ingredients/rice-vinegar.md)\n- 125 ml (½ cup) [warm water](/ingredients/water.md)\n- 2 tbsp [sugar](/ingredients/sugar.md)\n- ½ tsp [salt](/ingredients/salt.md)\n\n### For the pork\n\n- 250 g [pork shoulder](/ingredients/pork-shoulder.md) or [loin](/ingredients/pork-loin.md), thinly sliced, or 200 g [firm tofu](/ingredients/tofu.md), sliced\n- 1 tbsp [fish sauce](/ingredients/fish-sauce.md) ([soy sauce](/ingredients/soy-sauce.md) for tofu)\n- 1 tsp [sugar](/ingredients/sugar.md)\n- 1 tbsp [neutral oil](/ingredients/neutral-oil.md)\n\n### For the sandwiches\n\n- 1 crisp [baguette](/ingredients/baguette.md), cut into two lengths\n- 2 tbsp [mayonnaise](/ingredients/mayonnaise.md)\n- 60 g [pâté](/ingredients/pate.md)\n- ½ [cucumber](/ingredients/cucumber.md), sliced lengthways\n- A handful of [coriander](/ingredients/coriander.md) sprigs, with stalks"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Pickle the vegetables.** Stir the vinegar, water, sugar and salt until dissolved. Add the carrot and daikon and leave for at least 30 minutes.\n2. **Cook the pork.** Toss the pork with the fish sauce and sugar. Fry it in the oil over high heat for 2–3 minutes a side, until browned and cooked through.\n3. **Toast the bread.** Split each length of baguette along one side and warm it in a hot oven for 3–4 minutes, until the crust crackles.\n4. **Spread.** Spread mayonnaise on one cut side and pâté on the other.\n5. **Fill.** Lay in the warm pork, the cucumber, a generous heap of drained pickles and the coriander. Eat straight away."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- The pickle keeps for about a week in the fridge in its liquid.\n- A sliced chilli and a few drops of Maggi seasoning are common extras."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Bánh mì with pickled daikon and carrots](https://junglejims.com/recipe/banh-mi-with-pickled-daikon-and-carrots/) (Jungle Jim’s)\n- [Pickled daikon and carrot bánh mì](https://chatelaine.com/recipe/side-dishes-2/pickled-daikon-carrot-banh-mi-recipe/) (Chatelaine)"
+  }
+ ]
+}

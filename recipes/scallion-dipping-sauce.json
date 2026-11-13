@@ -1,0 +1,150 @@
+{
+ "slug": "scallion-dipping-sauce",
+ "category": "sauces",
+ "path": "recipes/sauces/scallion-dipping-sauce.md",
+ "title": "Scallion dipping sauce",
+ "subtitle": "Soy, rice vinegar and gochugaru with plenty of sliced scallions",
+ "tags": [
+  "scallion",
+  "korean",
+  "dipping sauce",
+  "sauce"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "makes": "about 1 litre (4 cups)",
+  "prep": "10 min",
+  "rest": "10 min"
+ },
+ "source": null,
+ "photo": null,
+ "photoAlt": "",
+ "intro": "> [!NOTE]\n> **Draft method for David to check.** The vault note lists only the\n> ingredients, so the method is worked out from them and hasn’t been tested.\n\nA dip for pancakes and dumplings that also works as a glaze or dressing.\nDissolve the sugar before the scallions go in, and slice the scallions\nthin so they soften in the sauce.",
+ "ingredientGroups": [
+  {
+   "title": null,
+   "items": [
+    {
+     "markdown": "500 ml (2 cups) [soy sauce](/ingredients/soy-sauce.md)",
+     "refs": [
+      {
+       "id": "soy-sauce",
+       "label": "soy sauce"
+      }
+     ],
+     "text": "500 ml (2 cups) soy sauce",
+     "quantity": "500 ml (2 cups)",
+     "preparation": ""
+    },
+    {
+     "markdown": "175 ml (¾ cup) [rice vinegar](/ingredients/rice-vinegar.md)",
+     "refs": [
+      {
+       "id": "rice-vinegar",
+       "label": "rice vinegar"
+      }
+     ],
+     "text": "175 ml (¾ cup) rice vinegar",
+     "quantity": "175 ml (¾ cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 tbsp [sugar](/ingredients/sugar.md)",
+     "refs": [
+      {
+       "id": "sugar",
+       "label": "sugar"
+      }
+     ],
+     "text": "2 tbsp sugar",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "125 ml (½ cup) [toasted sesame oil](/ingredients/sesame-oil.md)",
+     "refs": [
+      {
+       "id": "sesame-oil",
+       "label": "toasted sesame oil"
+      }
+     ],
+     "text": "125 ml (½ cup) toasted sesame oil",
+     "quantity": "125 ml (½ cup)",
+     "preparation": ""
+    },
+    {
+     "markdown": "3 tbsp [gochugaru](/ingredients/gochugaru.md) (Korean chili flakes)",
+     "refs": [
+      {
+       "id": "gochugaru",
+       "label": "gochugaru"
+      }
+     ],
+     "text": "3 tbsp gochugaru (Korean chili flakes)",
+     "quantity": "3 tbsp",
+     "preparation": "(Korean chili flakes)"
+    },
+    {
+     "markdown": "2 tbsp [toasted sesame seeds](/ingredients/sesame-seeds.md), crushed",
+     "refs": [
+      {
+       "id": "sesame-seeds",
+       "label": "toasted sesame seeds"
+      }
+     ],
+     "text": "2 tbsp toasted sesame seeds, crushed",
+     "quantity": "2 tbsp",
+     "preparation": "crushed"
+    },
+    {
+     "markdown": "1 bunch [scallions](/ingredients/scallion.md) (about 8), trimmed and thinly sliced",
+     "refs": [
+      {
+       "id": "scallion",
+       "label": "scallions"
+      }
+     ],
+     "text": "1 bunch scallions (about 8), trimmed and thinly sliced",
+     "quantity": "1 bunch",
+     "preparation": "(about 8), trimmed and thinly sliced"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Dissolve the sugar",
+   "markdown": "In a bowl, stir the soy sauce, rice vinegar and sugar until the sugar has dissolved."
+  },
+  {
+   "name": "Season",
+   "markdown": "Stir in the sesame oil, gochugaru and crushed sesame seeds."
+  },
+  {
+   "name": "Add the scallions",
+   "markdown": "Slice the scallions thinly, in rounds or on a bias, and stir them in."
+  },
+  {
+   "name": "Rest",
+   "markdown": "Leave it for 10 minutes so the gochugaru blooms and the scallions soften. Stir before serving, as the oil and chili settle."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "- 500 ml (2 cups) [soy sauce](/ingredients/soy-sauce.md)\n- 175 ml (¾ cup) [rice vinegar](/ingredients/rice-vinegar.md)\n- 2 tbsp [sugar](/ingredients/sugar.md)\n- 125 ml (½ cup) [toasted sesame oil](/ingredients/sesame-oil.md)\n- 3 tbsp [gochugaru](/ingredients/gochugaru.md) (Korean chili flakes)\n- 2 tbsp [toasted sesame seeds](/ingredients/sesame-seeds.md), crushed\n- 1 bunch [scallions](/ingredients/scallion.md) (about 8), trimmed and thinly sliced"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Dissolve the sugar.** In a bowl, stir the soy sauce, rice vinegar and sugar until the sugar has dissolved.\n2. **Season.** Stir in the sesame oil, gochugaru and crushed sesame seeds.\n3. **Add the scallions.** Slice the scallions thinly, in rounds or on a bias, and stir them in.\n4. **Rest.** Leave it for 10 minutes so the gochugaru blooms and the scallions soften. Stir before serving, as the oil and chili settle."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- Crush the sesame seeds in a mortar, or rub them between your palms, to release their oil.\n- Keeps for about a week in a sealed jar in the fridge; the scallions soften further over time.\n- Serve with pajeon or mung bean pancakes, dumplings, tofu or grilled meat."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Mother sauce: scallion dipping sauce](https://www.masterclass.com/classes/roy-choi-teaches-intuitive-cooking/chapters/mother-sauce-scallion-dipping-sauce) (MasterClass), Roy Choi’s version, which adds chili powder\n- [Pajeon](https://www.saveur.com/pajeon-korean-scallion-pancakes-recipe) (Saveur), scallion pancakes to dip in it\n- [Soy scallion dipping sauce](https://app.ckbk.com/recipe/kore50575f04s001r012) (ckbk), a small, everyday batch"
+  }
+ ]
+}

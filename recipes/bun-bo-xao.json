@@ -1,0 +1,240 @@
+{
+ "slug": "bun-bo-xao",
+ "category": "mains",
+ "path": "recipes/mains/bun-bo-xao.md",
+ "title": "Bún bò xào",
+ "subtitle": "Garlic beef on rice noodles and herbs, dressed with nước chấm",
+ "tags": [
+  "beef",
+  "vietnamese",
+  "noodles",
+  "lunch"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "serves": "2",
+  "prep": "15 min",
+  "cook": "10 min"
+ },
+ "source": null,
+ "photo": null,
+ "photoAlt": "",
+ "intro": "A southern Vietnamese noodle bowl with no broth to simmer, so it comes\ntogether in the time the noodles take. Slice the beef thin and cook it\nfast in a very hot pan so it browns without stewing.",
+ "ingredientGroups": [
+  {
+   "title": "For the bowl",
+   "items": [
+    {
+     "markdown": "150 g [rice vermicelli](/ingredients/rice-vermicelli.md)",
+     "refs": [
+      {
+       "id": "rice-vermicelli",
+       "label": "rice vermicelli"
+      }
+     ],
+     "text": "150 g rice vermicelli",
+     "quantity": "150 g",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 handfuls shredded [lettuce](/ingredients/lettuce.md)",
+     "refs": [
+      {
+       "id": "lettuce",
+       "label": "lettuce"
+      }
+     ],
+     "text": "2 handfuls shredded lettuce",
+     "quantity": "2 handfuls shredded",
+     "preparation": ""
+    },
+    {
+     "markdown": "100 g [bean sprouts](/ingredients/bean-sprouts.md)",
+     "refs": [
+      {
+       "id": "bean-sprouts",
+       "label": "bean sprouts"
+      }
+     ],
+     "text": "100 g bean sprouts",
+     "quantity": "100 g",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 small bunch [mint](/ingredients/mint.md), leaves picked",
+     "refs": [
+      {
+       "id": "mint",
+       "label": "mint"
+      }
+     ],
+     "text": "1 small bunch mint, leaves picked",
+     "quantity": "1 small bunch",
+     "preparation": "leaves picked"
+    },
+    {
+     "markdown": "1 small bunch [coriander](/ingredients/coriander.md), leaves picked",
+     "refs": [
+      {
+       "id": "coriander",
+       "label": "coriander"
+      }
+     ],
+     "text": "1 small bunch coriander, leaves picked",
+     "quantity": "1 small bunch",
+     "preparation": "leaves picked"
+    },
+    {
+     "markdown": "2 tbsp [crushed roasted peanuts](/ingredients/roasted-peanuts.md)",
+     "refs": [
+      {
+       "id": "roasted-peanuts",
+       "label": "crushed roasted peanuts"
+      }
+     ],
+     "text": "2 tbsp crushed roasted peanuts",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "2 tbsp [fried shallots](/ingredients/fried-shallots.md)",
+     "refs": [
+      {
+       "id": "fried-shallots",
+       "label": "fried shallots"
+      }
+     ],
+     "text": "2 tbsp fried shallots",
+     "quantity": "2 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "title": "For the beef",
+   "items": [
+    {
+     "markdown": "300 g [beef sirloin](/ingredients/beef-sirloin.md) or [flank](/ingredients/beef-flank.md), thinly sliced across the grain",
+     "refs": [
+      {
+       "id": "beef-sirloin",
+       "label": "beef sirloin"
+      },
+      {
+       "id": "beef-flank",
+       "label": "flank"
+      }
+     ],
+     "text": "300 g beef sirloin or flank, thinly sliced across the grain",
+     "quantity": "300 g",
+     "preparation": "thinly sliced across the grain"
+    },
+    {
+     "markdown": "2 cloves [garlic](/ingredients/garlic.md), minced",
+     "refs": [
+      {
+       "id": "garlic",
+       "label": "garlic"
+      }
+     ],
+     "text": "2 cloves garlic, minced",
+     "quantity": "2 cloves",
+     "preparation": "minced"
+    },
+    {
+     "markdown": "1 tbsp [fish sauce](/ingredients/fish-sauce.md)",
+     "refs": [
+      {
+       "id": "fish-sauce",
+       "label": "fish sauce"
+      }
+     ],
+     "text": "1 tbsp fish sauce",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 tsp [sugar](/ingredients/sugar.md)",
+     "refs": [
+      {
+       "id": "sugar",
+       "label": "sugar"
+      }
+     ],
+     "text": "1 tsp sugar",
+     "quantity": "1 tsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "1 tbsp [neutral oil](/ingredients/neutral-oil.md)",
+     "refs": [
+      {
+       "id": "neutral-oil",
+       "label": "neutral oil"
+      }
+     ],
+     "text": "1 tbsp neutral oil",
+     "quantity": "1 tbsp",
+     "preparation": ""
+    }
+   ]
+  },
+  {
+   "title": "For the sauce",
+   "items": [
+    {
+     "markdown": "150 ml [nước chấm](/ingredients/nuoc-cham.md) ([recipe](../sauces/nuoc-cham.md)), thinned with water (see Notes)",
+     "refs": [
+      {
+       "id": "nuoc-cham",
+       "label": "nước chấm"
+      }
+     ],
+     "text": "150 ml nước chấm (recipe), thinned with water (see Notes)",
+     "quantity": "150 ml",
+     "preparation": "(recipe), thinned with water (see Notes)"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Cook the noodles",
+   "markdown": "Boil the vermicelli for 3–5 minutes, until just tender. Drain, rinse under cold water and drain well."
+  },
+  {
+   "name": "Season the beef",
+   "markdown": "Toss the beef with the garlic, fish sauce and sugar."
+  },
+  {
+   "name": "Fry the beef",
+   "markdown": "Heat the oil in a wok or large pan over high heat until it shimmers. Add the beef in one layer and stir-fry for about 2 minutes, until browned outside and just cooked."
+  },
+  {
+   "name": "Build the bowls",
+   "markdown": "Layer lettuce, bean sprouts and herbs in two bowls, then the noodles, then the beef with its juices."
+  },
+  {
+   "name": "Serve",
+   "markdown": "Scatter over the peanuts and fried shallots. Pour the nước chấm over just before eating."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "### For the bowl\n\n- 150 g [rice vermicelli](/ingredients/rice-vermicelli.md)\n- 2 handfuls shredded [lettuce](/ingredients/lettuce.md)\n- 100 g [bean sprouts](/ingredients/bean-sprouts.md)\n- 1 small bunch [mint](/ingredients/mint.md), leaves picked\n- 1 small bunch [coriander](/ingredients/coriander.md), leaves picked\n- 2 tbsp [crushed roasted peanuts](/ingredients/roasted-peanuts.md)\n- 2 tbsp [fried shallots](/ingredients/fried-shallots.md)\n\n### For the beef\n\n- 300 g [beef sirloin](/ingredients/beef-sirloin.md) or [flank](/ingredients/beef-flank.md), thinly sliced across the grain\n- 2 cloves [garlic](/ingredients/garlic.md), minced\n- 1 tbsp [fish sauce](/ingredients/fish-sauce.md)\n- 1 tsp [sugar](/ingredients/sugar.md)\n- 1 tbsp [neutral oil](/ingredients/neutral-oil.md)\n\n### For the sauce\n\n- 150 ml [nước chấm](/ingredients/nuoc-cham.md) ([recipe](../sauces/nuoc-cham.md)), thinned with water (see Notes)"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Cook the noodles.** Boil the vermicelli for 3–5 minutes, until just tender. Drain, rinse under cold water and drain well.\n2. **Season the beef.** Toss the beef with the garlic, fish sauce and sugar.\n3. **Fry the beef.** Heat the oil in a wok or large pan over high heat until it shimmers. Add the beef in one layer and stir-fry for about 2 minutes, until browned outside and just cooked.\n4. **Build the bowls.** Layer lettuce, bean sprouts and herbs in two bowls, then the noodles, then the beef with its juices.\n5. **Serve.** Scatter over the peanuts and fried shallots. Pour the nước chấm over just before eating."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- The sauce is the classic dressing of fish sauce, lime juice, sugar, garlic and water. The site’s [nước chấm](../sauces/nuoc-cham.md) is a stronger concentrate: thin about 75 ml of it with 75 ml warm water.\n- Fish sauce, rice vermicelli and fried shallots come from an Asian grocer; the herbs, lettuce and beef from any supermarket.\n- Lemongrass in the beef makes it bún bò xả (see Similar recipes)."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Vietnamese sautéed beef noodle bowl](https://redboatfishsauce.com/blogs/recipes/vietnamese-sauteed-beef-noodle-bowl) (Red Boat Fish Sauce), with onion fried with the beef\n- [Lemongrass beef over rice noodles](https://runawayrice.com/noodles-rice/lemongrass-beef-over-rice-noodles/) (Runaway Rice), the lemongrass version\n- [Beef noodle salad (bún bò xào)](https://www.sbs.com.au/food/recipe/beef-noodle-salad-bun-bo-xao/6bdyk3ldv) (SBS Food)"
+  }
+ ]
+}

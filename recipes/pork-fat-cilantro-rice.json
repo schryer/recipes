@@ -1,0 +1,207 @@
+{
+ "slug": "pork-fat-cilantro-rice",
+ "category": "sides",
+ "path": "recipes/sides/pork-fat-cilantro-rice.md",
+ "title": "Pork fat cilantro rice",
+ "subtitle": "Short-grain rice stirred with a tomatillo, herb and lime purée and carnitas fat",
+ "tags": [
+  "rice",
+  "mexican",
+  "tomatillo",
+  "side"
+ ],
+ "date": "2026-11-09",
+ "facts": {
+  "serves": "8",
+  "prep": "20 min",
+  "cook": "30 min"
+ },
+ "source": "https://www.masterclass.com/classes/roy-choi-teaches-intuitive-cooking/chapters/large-format-carnitas-with-pork-fat-cilantro-rice",
+ "photo": null,
+ "photoAlt": "",
+ "intro": "Roy Choi’s rice for the [oven carnitas](../mains/carnitas.md): plain rice\nturned rich with the pork’s rendered fat and bright with a quick\ntomatillo-cilantro purée. Blanch the tomatillos only until they change\ncolour, so the purée stays fresh and green.",
+ "ingredientGroups": [
+  {
+   "title": null,
+   "items": [
+    {
+     "markdown": "600 g (3 cups) [short-grain white rice](/ingredients/rice.md)",
+     "refs": [
+      {
+       "id": "rice",
+       "label": "short-grain white rice"
+      }
+     ],
+     "text": "600 g (3 cups) short-grain white rice",
+     "quantity": "600 g (3 cups)",
+     "preparation": ""
+    },
+    {
+     "markdown": "250 ml (1 cup) rendered [pork fat](/ingredients/lard.md), from the carnitas pot, plus more to taste",
+     "refs": [
+      {
+       "id": "lard",
+       "label": "pork fat"
+      }
+     ],
+     "text": "250 ml (1 cup) rendered pork fat, from the carnitas pot, plus more to taste",
+     "quantity": "250 ml (1 cup) rendered",
+     "preparation": "from the carnitas pot, plus more to taste"
+    }
+   ]
+  },
+  {
+   "title": "For the cilantro sauce",
+   "items": [
+    {
+     "markdown": "Ice [water](/ingredients/water.md), for blanching",
+     "refs": [
+      {
+       "id": "water",
+       "label": "water"
+      }
+     ],
+     "text": "Ice water, for blanching",
+     "quantity": "Ice",
+     "preparation": "for blanching"
+    },
+    {
+     "markdown": "6 medium [tomatillos](/ingredients/tomatillo.md), about 170 g (6 oz), husked and rinsed",
+     "refs": [
+      {
+       "id": "tomatillo",
+       "label": "tomatillos"
+      }
+     ],
+     "text": "6 medium tomatillos, about 170 g (6 oz), husked and rinsed",
+     "quantity": "6 medium",
+     "preparation": "about 170 g (6 oz), husked and rinsed"
+    },
+    {
+     "markdown": "1 [garlic clove](/ingredients/garlic.md), peeled",
+     "refs": [
+      {
+       "id": "garlic",
+       "label": "garlic clove"
+      }
+     ],
+     "text": "1 garlic clove, peeled",
+     "quantity": "1",
+     "preparation": "peeled"
+    },
+    {
+     "markdown": "Juice of 3 [limes](/ingredients/lime.md), about 80 ml (⅓ cup)",
+     "refs": [
+      {
+       "id": "lime",
+       "label": "limes"
+      }
+     ],
+     "text": "Juice of 3 limes, about 80 ml (⅓ cup)",
+     "quantity": "Juice of 3",
+     "preparation": "about 80 ml (⅓ cup)"
+    },
+    {
+     "markdown": "1 bunch [cilantro](/ingredients/coriander.md), a few sprigs kept back for garnish",
+     "refs": [
+      {
+       "id": "coriander",
+       "label": "cilantro"
+      }
+     ],
+     "text": "1 bunch cilantro, a few sprigs kept back for garnish",
+     "quantity": "1 bunch",
+     "preparation": "a few sprigs kept back for garnish"
+    },
+    {
+     "markdown": "1 bunch [flat-leaf parsley](/ingredients/parsley.md), a few sprigs kept back for garnish",
+     "refs": [
+      {
+       "id": "parsley",
+       "label": "flat-leaf parsley"
+      }
+     ],
+     "text": "1 bunch flat-leaf parsley, a few sprigs kept back for garnish",
+     "quantity": "1 bunch",
+     "preparation": "a few sprigs kept back for garnish"
+    },
+    {
+     "markdown": "125 ml (½ cup) cold [water](/ingredients/water.md), plus more as needed",
+     "refs": [
+      {
+       "id": "water",
+       "label": "water"
+      }
+     ],
+     "text": "125 ml (½ cup) cold water, plus more as needed",
+     "quantity": "125 ml (½ cup) cold",
+     "preparation": "plus more as needed"
+    },
+    {
+     "markdown": "[Kosher salt or coarse sea salt](/ingredients/salt.md), to taste",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "Kosher salt or coarse sea salt"
+      }
+     ],
+     "text": "Kosher salt or coarse sea salt, to taste",
+     "quantity": "",
+     "preparation": "to taste"
+    },
+    {
+     "markdown": "Freshly ground [black pepper](/ingredients/black-pepper.md), to taste",
+     "refs": [
+      {
+       "id": "black-pepper",
+       "label": "black pepper"
+      }
+     ],
+     "text": "Freshly ground black pepper, to taste",
+     "quantity": "Freshly ground",
+     "preparation": "to taste"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Rinse and cook the rice",
+   "markdown": "Put the rice in a pot or bowl (the rice cooker bowl, if you have one) and rinse it under cold water, swirling the grains with your fingers and pouring off the starchy water. Repeat about 5 times, until the water runs nearly clear, then drain. Cook it in a rice cooker or pot following the packet instructions."
+  },
+  {
+   "name": "Blanch the tomatillos",
+   "markdown": "Fill a medium bowl with ice water. Bring a medium pot half full of water to the boil over high heat, add the tomatillos and garlic, and cook just until they start to soften and change colour, 1–2 minutes. Lift them into the ice water to stop the cooking."
+  },
+  {
+   "name": "Blend the sauce",
+   "markdown": "Put the cooled tomatillos and garlic, the lime juice, a few big pinches of salt and pepper, most of the cilantro and parsley and the cold water in a clean blender. Blend until smooth, about 20 seconds, adding more water if it is too thick. Taste and season, then chill it until the pork is done."
+  },
+  {
+   "name": "Dress the rice",
+   "markdown": "When the carnitas come out of the oven, tip the cooked rice (about 6 cups) into a large bowl. Add 125 ml (½ cup) of the chilled sauce and the rendered pork fat and stir well. Taste and season with salt and pepper."
+  },
+  {
+   "name": "Finish",
+   "markdown": "Roughly chop the reserved cilantro and parsley sprigs for the garnish, and keep the rest of the sauce to spoon around the plate (see [oven carnitas](../mains/carnitas.md))."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "- 600 g (3 cups) [short-grain white rice](/ingredients/rice.md)\n- 250 ml (1 cup) rendered [pork fat](/ingredients/lard.md), from the carnitas pot, plus more to taste\n\n### For the cilantro sauce\n\n- Ice [water](/ingredients/water.md), for blanching\n- 6 medium [tomatillos](/ingredients/tomatillo.md), about 170 g (6 oz), husked and rinsed\n- 1 [garlic clove](/ingredients/garlic.md), peeled\n- Juice of 3 [limes](/ingredients/lime.md), about 80 ml (⅓ cup)\n- 1 bunch [cilantro](/ingredients/coriander.md), a few sprigs kept back for garnish\n- 1 bunch [flat-leaf parsley](/ingredients/parsley.md), a few sprigs kept back for garnish\n- 125 ml (½ cup) cold [water](/ingredients/water.md), plus more as needed\n- [Kosher salt or coarse sea salt](/ingredients/salt.md), to taste\n- Freshly ground [black pepper](/ingredients/black-pepper.md), to taste"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Rinse and cook the rice.** Put the rice in a pot or bowl (the rice cooker bowl, if you have one) and rinse it under cold water, swirling the grains with your fingers and pouring off the starchy water. Repeat about 5 times, until the water runs nearly clear, then drain. Cook it in a rice cooker or pot following the packet instructions.\n2. **Blanch the tomatillos.** Fill a medium bowl with ice water. Bring a medium pot half full of water to the boil over high heat, add the tomatillos and garlic, and cook just until they start to soften and change colour, 1–2 minutes. Lift them into the ice water to stop the cooking.\n3. **Blend the sauce.** Put the cooled tomatillos and garlic, the lime juice, a few big pinches of salt and pepper, most of the cilantro and parsley and the cold water in a clean blender. Blend until smooth, about 20 seconds, adding more water if it is too thick. Taste and season, then chill it until the pork is done.\n4. **Dress the rice.** When the carnitas come out of the oven, tip the cooked rice (about 6 cups) into a large bowl. Add 125 ml (½ cup) of the chilled sauce and the rendered pork fat and stir well. Taste and season with salt and pepper.\n5. **Finish.** Roughly chop the reserved cilantro and parsley sprigs for the garnish, and keep the rest of the sauce to spoon around the plate (see [oven carnitas](../mains/carnitas.md))."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- The rice needs the fat from the carnitas pot; without carnitas, use lard or the fat from another pork roast."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Oven carnitas](../mains/carnitas.md), the pork this rice is served with\n- [Salsa verde rice with carnitas](https://shop.woodlandfoods.com/recipes/salsa-verde-rice-with-carnitas) (Woodland Foods), cooked with a jarred salsa verde instead of a fresh herb purée"
+  }
+ ]
+}

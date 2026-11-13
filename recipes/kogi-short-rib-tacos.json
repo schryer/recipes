@@ -1,0 +1,273 @@
+{
+ "slug": "kogi-short-rib-tacos",
+ "category": "mains",
+ "path": "recipes/mains/kogi-short-rib-tacos.md",
+ "title": "Kogi short rib tacos",
+ "subtitle": "Roy Choi’s kalbi tacos with salsa verde, cilantro-onion relish and a soy-dressed scallion slaw",
+ "tags": [
+  "beef",
+  "korean",
+  "mexican",
+  "tacos",
+  "dinner"
+ ],
+ "date": "2026-11-09",
+ "facts": {
+  "serves": "4",
+  "prep": "20 min",
+  "cook": "10 min"
+ },
+ "source": "https://www.masterclass.com/articles/korean-short-rib-tacos-recipe-by-roy-choi",
+ "photo": null,
+ "photoAlt": "",
+ "intro": "The taco that started the Kogi truck: grilled kalbi crisped on the griddle,\nthen stacked with three toppings. Make the [Kalbi marinade](../sauces/kalbi-marinade.md),\n[Kogi vinaigrette](../sauces/kogi-vinaigrette.md) and [Salsa verde](../sauces/salsa-verde.md)\nfirst, and dress the slaw generously.",
+ "ingredientGroups": [
+  {
+   "title": "For the cilantro-onion relish",
+   "items": [
+    {
+     "markdown": "½ medium white [onion](/ingredients/onion.md), finely chopped",
+     "refs": [
+      {
+       "id": "onion",
+       "label": "onion"
+      }
+     ],
+     "text": "½ medium white onion, finely chopped",
+     "quantity": "½ medium white",
+     "preparation": "finely chopped"
+    },
+    {
+     "markdown": "A small handful (¼ cup) [cilantro](/ingredients/coriander.md), finely chopped",
+     "refs": [
+      {
+       "id": "coriander",
+       "label": "cilantro"
+      }
+     ],
+     "text": "A small handful (¼ cup) cilantro, finely chopped",
+     "quantity": "A small handful (¼ cup)",
+     "preparation": "finely chopped"
+    },
+    {
+     "markdown": "Juice of ½ [lime](/ingredients/lime.md) (about 1 tbsp)",
+     "refs": [
+      {
+       "id": "lime",
+       "label": "lime"
+      }
+     ],
+     "text": "Juice of ½ lime (about 1 tbsp)",
+     "quantity": "Juice of ½",
+     "preparation": "(about 1 tbsp)"
+    },
+    {
+     "markdown": "[Kosher salt](/ingredients/salt.md), to taste",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "Kosher salt"
+      }
+     ],
+     "text": "Kosher salt, to taste",
+     "quantity": "",
+     "preparation": "to taste"
+    },
+    {
+     "markdown": "Freshly ground [black pepper](/ingredients/black-pepper.md), to taste",
+     "refs": [
+      {
+       "id": "black-pepper",
+       "label": "black pepper"
+      }
+     ],
+     "text": "Freshly ground black pepper, to taste",
+     "quantity": "Freshly ground",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  {
+   "title": "For the scallion slaw",
+   "items": [
+    {
+     "markdown": "6 [scallions](/ingredients/scallion.md), trimmed and cut on the diagonal into thin strips",
+     "refs": [
+      {
+       "id": "scallion",
+       "label": "scallions"
+      }
+     ],
+     "text": "6 scallions, trimmed and cut on the diagonal into thin strips",
+     "quantity": "6",
+     "preparation": "trimmed and cut on the diagonal into thin strips"
+    },
+    {
+     "markdown": "About 35 g (½ cup) [green cabbage](/ingredients/cabbage.md), thinly sliced",
+     "refs": [
+      {
+       "id": "cabbage",
+       "label": "green cabbage"
+      }
+     ],
+     "text": "About 35 g (½ cup) green cabbage, thinly sliced",
+     "quantity": "About 35 g (½ cup)",
+     "preparation": "thinly sliced"
+    },
+    {
+     "markdown": "About 25 g (½ cup) [romaine lettuce](/ingredients/lettuce.md), thinly sliced",
+     "refs": [
+      {
+       "id": "lettuce",
+       "label": "romaine lettuce"
+      }
+     ],
+     "text": "About 25 g (½ cup) romaine lettuce, thinly sliced",
+     "quantity": "About 25 g (½ cup)",
+     "preparation": "thinly sliced"
+    },
+    {
+     "markdown": "A pinch of [kosher salt](/ingredients/salt.md)",
+     "refs": [
+      {
+       "id": "salt",
+       "label": "kosher salt"
+      }
+     ],
+     "text": "A pinch of kosher salt",
+     "quantity": "A pinch of",
+     "preparation": ""
+    },
+    {
+     "markdown": "A pinch of freshly ground [black pepper](/ingredients/black-pepper.md)",
+     "refs": [
+      {
+       "id": "black-pepper",
+       "label": "black pepper"
+      }
+     ],
+     "text": "A pinch of freshly ground black pepper",
+     "quantity": "A pinch of freshly ground",
+     "preparation": ""
+    },
+    {
+     "markdown": "[Kogi vinaigrette](/ingredients/kogi-vinaigrette.md), to taste",
+     "refs": [
+      {
+       "id": "kogi-vinaigrette",
+       "label": "Kogi vinaigrette"
+      }
+     ],
+     "text": "Kogi vinaigrette, to taste",
+     "quantity": "",
+     "preparation": "to taste"
+    }
+   ]
+  },
+  {
+   "title": "For the tacos",
+   "items": [
+    {
+     "markdown": "[Neutral oil](/ingredients/neutral-oil.md), such as canola or grapeseed, to coat the pan",
+     "refs": [
+      {
+       "id": "neutral-oil",
+       "label": "Neutral oil"
+      }
+     ],
+     "text": "Neutral oil, such as canola or grapeseed, to coat the pan",
+     "quantity": "",
+     "preparation": "such as canola or grapeseed, to coat the pan"
+    },
+    {
+     "markdown": "8 small [corn tortillas](/ingredients/corn-tortilla.md) (11 cm, 4½ in)",
+     "refs": [
+      {
+       "id": "corn-tortilla",
+       "label": "corn tortillas"
+      }
+     ],
+     "text": "8 small corn tortillas (11 cm, 4½ in)",
+     "quantity": "8 small",
+     "preparation": "(11 cm, 4½ in)"
+    },
+    {
+     "markdown": "450 g (1 lb) cooked [kalbi](/ingredients/kalbi.md), bones removed, chopped into small chunks",
+     "refs": [
+      {
+       "id": "kalbi",
+       "label": "kalbi"
+      }
+     ],
+     "text": "450 g (1 lb) cooked kalbi, bones removed, chopped into small chunks",
+     "quantity": "450 g (1 lb) cooked",
+     "preparation": "bones removed, chopped into small chunks"
+    },
+    {
+     "markdown": "[Salsa verde](/ingredients/salsa-verde.md), to taste",
+     "refs": [
+      {
+       "id": "salsa-verde",
+       "label": "Salsa verde"
+      }
+     ],
+     "text": "Salsa verde, to taste",
+     "quantity": "",
+     "preparation": "to taste"
+    },
+    {
+     "markdown": "[Lime](/ingredients/lime.md) wedges, for serving",
+     "refs": [
+      {
+       "id": "lime",
+       "label": "Lime"
+      }
+     ],
+     "text": "Lime wedges, for serving",
+     "quantity": "",
+     "preparation": "wedges, for serving"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Make the relish",
+   "markdown": "Stir the onion, cilantro and lime juice together in a bowl, season with salt and pepper and set aside."
+  },
+  {
+   "name": "Make the slaw",
+   "markdown": "Toss the scallions, cabbage and lettuce in a bowl with the salt and pepper. Add a few large spoonfuls of the vinaigrette and toss gently, adding more until the slaw is well coated and a little dressing pools at the bottom of the bowl."
+  },
+  {
+   "name": "Warm the tortillas",
+   "markdown": "Film a large skillet or griddle with oil over medium heat. Cook the tortillas, in batches if needed, about 30 seconds a side, until soft and pliable and just starting to crisp. Keep them warm stacked at the edge of the pan, or under a towel on a plate."
+  },
+  {
+   "name": "Crisp the kalbi",
+   "markdown": "Put the chopped kalbi on the hot pan and cook for about 2 minutes, until it caramelises and browns at the edges."
+  },
+  {
+   "name": "Build the tacos",
+   "markdown": "Stack two tortillas per taco. Top with the kalbi, spoon over the salsa verde, add the relish and finish with a pile of slaw. Serve straight away with lime wedges."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "### For the cilantro-onion relish\n\n- ½ medium white [onion](/ingredients/onion.md), finely chopped\n- A small handful (¼ cup) [cilantro](/ingredients/coriander.md), finely chopped\n- Juice of ½ [lime](/ingredients/lime.md) (about 1 tbsp)\n- [Kosher salt](/ingredients/salt.md), to taste\n- Freshly ground [black pepper](/ingredients/black-pepper.md), to taste\n\n### For the scallion slaw\n\n- 6 [scallions](/ingredients/scallion.md), trimmed and cut on the diagonal into thin strips\n- About 35 g (½ cup) [green cabbage](/ingredients/cabbage.md), thinly sliced\n- About 25 g (½ cup) [romaine lettuce](/ingredients/lettuce.md), thinly sliced\n- A pinch of [kosher salt](/ingredients/salt.md)\n- A pinch of freshly ground [black pepper](/ingredients/black-pepper.md)\n- [Kogi vinaigrette](/ingredients/kogi-vinaigrette.md), to taste\n\n### For the tacos\n\n- [Neutral oil](/ingredients/neutral-oil.md), such as canola or grapeseed, to coat the pan\n- 8 small [corn tortillas](/ingredients/corn-tortilla.md) (11 cm, 4½ in)\n- 450 g (1 lb) cooked [kalbi](/ingredients/kalbi.md), bones removed, chopped into small chunks\n- [Salsa verde](/ingredients/salsa-verde.md), to taste\n- [Lime](/ingredients/lime.md) wedges, for serving"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Make the relish.** Stir the onion, cilantro and lime juice together in a bowl, season with salt and pepper and set aside.\n2. **Make the slaw.** Toss the scallions, cabbage and lettuce in a bowl with the salt and pepper. Add a few large spoonfuls of the vinaigrette and toss gently, adding more until the slaw is well coated and a little dressing pools at the bottom of the bowl.\n3. **Warm the tortillas.** Film a large skillet or griddle with oil over medium heat. Cook the tortillas, in batches if needed, about 30 seconds a side, until soft and pliable and just starting to crisp. Keep them warm stacked at the edge of the pan, or under a towel on a plate.\n4. **Crisp the kalbi.** Put the chopped kalbi on the hot pan and cook for about 2 minutes, until it caramelises and browns at the edges.\n5. **Build the tacos.** Stack two tortillas per taco. Top with the kalbi, spoon over the salsa verde, add the relish and finish with a pile of slaw. Serve straight away with lime wedges."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- Vegetarian: use 450 g (1 lb) grilled, roughly chopped mixed vegetables in place of the kalbi. The source pairs them with Roy Choi’s BBQ mixed vegetables, which aren’t on this site yet.\n- The relish and slaw are best made just before serving; the slaw wilts as it sits in the dressing."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Korean tacos with kalbi and napa cabbage slaw](https://kimchimari.com/korean-tacos-kalbi-napa-cabbage-slaw/) (Kimchimari), with a creamy gochujang sauce in place of the salsa verde\n- [Korean short rib tacos with Asian slaw](https://www.williams-sonoma.com/recipe/korean-short-rib-tacos-with-asian-slaw.html) (Williams-Sonoma), with radishes in the slaw\n- [Korean barbecue tacos](https://www.sbs.com.au/food/recipes/korean-barbecue-tacos) (SBS Food), using thin LA galbi-cut ribs"
+  }
+ ]
+}

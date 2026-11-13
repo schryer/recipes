@@ -1,0 +1,122 @@
+{
+ "slug": "nuoc-cham",
+ "category": "sauces",
+ "path": "recipes/sauces/nuoc-cham.md",
+ "title": "Nước chấm",
+ "subtitle": "Vietnamese garlic, lime and fish sauce dip, kept strong",
+ "tags": [
+  "fish sauce",
+  "vietnamese",
+  "dipping sauce",
+  "sauce",
+  "lime"
+ ],
+ "date": "2026-10-19",
+ "facts": {
+  "makes": "about 250 ml (1 cup)",
+  "prep": "10 min"
+ },
+ "source": null,
+ "photo": null,
+ "photoAlt": "",
+ "intro": "> [!NOTE]\n> **Draft method for David to check.** The vault note lists only the\n> ingredients, so the method is worked out from them and hasn’t been tested.\n\nThis version has no water, so it is stronger than most: use it as is for\nspooning over rice and grilled meat, or thin it for a dipping sauce (see\nNotes). Dissolve the sugar fully before tasting.",
+ "ingredientGroups": [
+  {
+   "title": null,
+   "items": [
+    {
+     "markdown": "4 tbsp [granulated sugar](/ingredients/sugar.md)",
+     "refs": [
+      {
+       "id": "sugar",
+       "label": "granulated sugar"
+      }
+     ],
+     "text": "4 tbsp granulated sugar",
+     "quantity": "4 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "4 tbsp [lime juice](/ingredients/lime.md) (about 2 limes)",
+     "refs": [
+      {
+       "id": "lime",
+       "label": "lime juice"
+      }
+     ],
+     "text": "4 tbsp lime juice (about 2 limes)",
+     "quantity": "4 tbsp",
+     "preparation": "(about 2 limes)"
+    },
+    {
+     "markdown": "6 tbsp [fish sauce](/ingredients/fish-sauce.md)",
+     "refs": [
+      {
+       "id": "fish-sauce",
+       "label": "fish sauce"
+      }
+     ],
+     "text": "6 tbsp fish sauce",
+     "quantity": "6 tbsp",
+     "preparation": ""
+    },
+    {
+     "markdown": "6 cloves [garlic](/ingredients/garlic.md), minced",
+     "refs": [
+      {
+       "id": "garlic",
+       "label": "garlic"
+      }
+     ],
+     "text": "6 cloves garlic, minced",
+     "quantity": "6 cloves",
+     "preparation": "minced"
+    },
+    {
+     "markdown": "2 tsp [chili garlic sauce](/ingredients/chili-garlic-sauce.md)",
+     "refs": [
+      {
+       "id": "chili-garlic-sauce",
+       "label": "chili garlic sauce"
+      }
+     ],
+     "text": "2 tsp chili garlic sauce",
+     "quantity": "2 tsp",
+     "preparation": ""
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "name": "Dissolve the sugar",
+   "markdown": "Stir the sugar into the lime juice until it has dissolved. Warming the juice for a few seconds helps."
+  },
+  {
+   "name": "Add the rest",
+   "markdown": "Stir in the fish sauce, garlic and chili garlic sauce."
+  },
+  {
+   "name": "Taste and rest",
+   "markdown": "Taste for the balance of salty, sour and sweet, adding a little more lime or sugar if needed. Leave it for 10 minutes so the garlic flavours the sauce."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Ingredients",
+   "markdown": "- 4 tbsp [granulated sugar](/ingredients/sugar.md)\n- 4 tbsp [lime juice](/ingredients/lime.md) (about 2 limes)\n- 6 tbsp [fish sauce](/ingredients/fish-sauce.md)\n- 6 cloves [garlic](/ingredients/garlic.md), minced\n- 2 tsp [chili garlic sauce](/ingredients/chili-garlic-sauce.md)"
+  },
+  {
+   "title": "Method",
+   "markdown": "1. **Dissolve the sugar.** Stir the sugar into the lime juice until it has dissolved. Warming the juice for a few seconds helps.\n2. **Add the rest.** Stir in the fish sauce, garlic and chili garlic sauce.\n3. **Taste and rest.** Taste for the balance of salty, sour and sweet, adding a little more lime or sugar if needed. Leave it for 10 minutes so the garlic flavours the sauce."
+  },
+  {
+   "title": "Notes",
+   "markdown": "- For a classic dipping sauce for spring rolls or bún, stir in 60–120 ml (¼–½ cup) warm water.\n- Keeps for about a week in the fridge; the garlic gets stronger as it sits."
+  },
+  {
+   "title": "Similar recipes",
+   "markdown": "- [Basic dipping sauce (nuoc cham)](https://www.splendidtable.org/story/2011/08/05/basic-dipping-sauce-nuoc-cham) (Andrea Nguyen, The Splendid Table), the classic water-diluted version\n- [Nước chấm](https://takestwoeggs.com/nuoc-cham-recipe/) (Takes Two Eggs), a similar balance with water and fresh Thai chilies\n- [Classic Vietnamese dipping sauce](https://www.saveur.com/article/Recipes/Classic-Vietnamese-Dipping-Sauce) (Saveur)"
+  }
+ ]
+}
